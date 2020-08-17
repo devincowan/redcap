@@ -1,0 +1,25 @@
+@base_url = https://apporchard.epic.com/interconnect-aocurprd-oauth
+@initialize_url_template = /api/epic/2013/Security/BreakTheGlass/InitializeBreakTheGlass/Security/BreakTheGlass/Initialize
+@accept_url_template = api/epic/2013/Security/BreakTheGlass/AcceptBreakTheGlass/Security/BreakTheGlass/Accept
+@cancel_url_template = api/epic/2013/Security/BreakTheGlass/CancelBreakTheGlass/Security/BreakTheGlass/Cancel
+@check_url_template = api/epic/2013/Security/BreakTheGlass/CheckBreakTheGlass/Security/BreakTheGlass/AccessCheck
+
+@access_token = eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJ1cm46b2lkOmFvY2UiLCJjbGllbnRfaWQiOiI4NTAzYmFmYy04ZmU4LTQ2MzEtYTY1Ny0wYjRhMDAwMTliZjUiLCJlcGljLmVjaSI6InVybjplcGljOkN1cnJlbnQtQXBwLU9yY2hhcmQtUHJvZHVjdGlvbiIsImVwaWMubWV0YWRhdGEiOiJpOXZCNmFWZXJ6ZFpySEdYQm1TUHhpZms1NWwxMVJDcnVkYkdEdEZPNVBMRnRYME5BU1RVUnB3UXFZNWlfMzNmS0xKOHFUQ3RiQnJsOXJlR1VKUHZ2RzZXWlFPdWpGZ29uX3BYcDJxOW1wcEdNam1ULVNNZXdyam5JblhrSmNSUCIsImVwaWMudG9rZW50eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTg5NTYyMTk1LCJpYXQiOjE1ODk1NTg1OTUsImlzcyI6InVybjpvaWQ6YW9jZSIsImp0aSI6ImZmZDg4NjJkLWNmOWYtNDNkYi1hMTc3LWJhMzczNzNkMzU0MyIsIm5iZiI6MTU4OTU1ODU5NSwic3ViIjoiZTVqN2JrVjdiWTJMaUp1WVBIYnotUnczIn0.mLpO9Yx6ga-JhVejIkONk2gXCw69Y8B--222XNMF4ARLb5GQVNUhPZRmECh7oTFr-tiZsvJtFhNvn81kWpuyq0NU4aFFuTql3H2lbBHS1bkIKAS4L-qe27HM0-rFMBgo9lh4qqka6Ol5VEXuG5zvyJOxOcPwS9hG9D8M8yMvy-1mJ-3VJ2L8uZFGaiwTQJYeVz4bNn38UX6nmFGc0ahMe6nZUEEodE4QPV2Ie14CyxpQh54O_M18czNR1AMIldKLWzE9xSUz5OEXqirKR_vk28EP-jjerPHA4ZVVOMF5mBFpafPTVoL0uuDG_hJ-Dz9Xf_gLLfKU98mDS81BqaJ3OQ
+@epic_client_ID = 8503bafc-8fe8-4631-a657-0b4a00019bf5
+
+
+# @name initlializeRequest
+POST {{base_url}}{{initialize_url_template}}
+Content-Type: application/x-www-form-urlencoded
+Authorization: Bearer {{access_token}}
+Accept: application/json
+Epic-Client-ID: {{epic_client_ID}}
+
+###
+
+# @name acceptRequest
+POST {{base_url}}{{accept_url_template}}
+Content-Type: application/x-www-form-urlencoded
+Authorization: Bearer {{access_token}}
+Accept: application/json
+Epic-Client-ID: {{epic_client_ID}}

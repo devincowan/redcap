@@ -1,0 +1,17 @@
+fhir,redcap
+id,mrn
+address-city,address_city
+address-country,address_country
+address-postalCode,address_postalcode
+address-state,address_state
+address-line,address_line
+birthDate,dob
+name-given,first_name
+name-family,last_name
+phone-home,phone_home
+phone-mobile,phone_mobile
+gender,sex
+ethnicity,ethnicity
+race,race
+email,email
+deceasedBoolean,is_deceased

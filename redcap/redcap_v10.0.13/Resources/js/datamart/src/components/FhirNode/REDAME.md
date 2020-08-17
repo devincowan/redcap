@@ -1,0 +1,1 @@
+attempt at refactoring the FHIR fields selection

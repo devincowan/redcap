@@ -1,0 +1,2 @@
+-- Initialize default Shibboleth IdP entry for Shibboleth & Table Auth
+INSERT INTO redcap_config(field_name,value) VALUES('shibboleth_table_config', '{\"splash_default\":\"non-inst-login\",\"table_login_option\":\"Use local REDCap login\",\"institutions\":[{\"login_option\":\"Shibboleth Login\",\"login_text\":\"Click the image below to login using Shibboleth\",\"login_image\":\"https:\/\/wiki.shibboleth.net\/confluence\/download\/attachments\/131074\/atl.site.logo?version=2&modificationDate=1502412080059&api=v2\",\"login_url\":\"\"}]}');

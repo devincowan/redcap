@@ -1,0 +1,975 @@
+{
+    "0": {
+        "field": "id",
+        "temporal": 0,
+        "label": "Medical record number",
+        "description": "Medical record number",
+        "category": "",
+        "subcategory": "",
+        "identifier": 1
+    },
+    "Demographics": [{
+        "field": "address-city",
+        "temporal": 0,
+        "label": "Address (city)",
+        "description": "Address (city)",
+        "category": "Demographics",
+        "subcategory": ""
+    }, {
+        "field": "address-country",
+        "temporal": 0,
+        "label": "Address (country)",
+        "description": "Address (country)",
+        "category": "Demographics",
+        "subcategory": ""
+    }, {
+        "field": "address-postalCode",
+        "temporal": 0,
+        "label": "Address (postal code)",
+        "description": "Address (postal code)",
+        "category": "Demographics",
+        "subcategory": ""
+    }, {
+        "field": "address-state",
+        "temporal": 0,
+        "label": "Address (state)",
+        "description": "Address (state)",
+        "category": "Demographics",
+        "subcategory": ""
+    }, {
+        "field": "address-line",
+        "temporal": 0,
+        "label": "Address (street)",
+        "description": "Address (street)",
+        "category": "Demographics",
+        "subcategory": ""
+    }, {
+        "field": "birthDate",
+        "temporal": 0,
+        "label": "Date of birth",
+        "description": "Date of birth",
+        "category": "Demographics",
+        "subcategory": ""
+    }, {
+        "field": "name-given",
+        "temporal": 0,
+        "label": "First name",
+        "description": "First name",
+        "category": "Demographics",
+        "subcategory": ""
+    }, {
+        "field": "name-family",
+        "temporal": 0,
+        "label": "Last name",
+        "description": "Last name",
+        "category": "Demographics",
+        "subcategory": ""
+    }, {
+        "field": "phone-home",
+        "temporal": 0,
+        "label": "Phone number (home)",
+        "description": "Phone number (home)",
+        "category": "Demographics",
+        "subcategory": ""
+    }, {
+        "field": "phone-mobile",
+        "temporal": 0,
+        "label": "Phone number (mobile)",
+        "description": "Phone number (mobile)",
+        "category": "Demographics",
+        "subcategory": ""
+    }, {
+        "field": "gender",
+        "temporal": 0,
+        "label": "Sex",
+        "description": "Sex",
+        "category": "Demographics",
+        "subcategory": ""
+    }, {
+        "field": "race",
+        "temporal": 0,
+        "label": "Race",
+        "description": "Race",
+        "category": "Demographics",
+        "subcategory": ""
+    }, {
+        "field": "ethnicity",
+        "temporal": 0,
+        "label": "Ethnicity",
+        "description": "Ethnicity",
+        "category": "Demographics",
+        "subcategory": ""
+    }, {
+        "field": "deceasedBoolean",
+        "temporal": 0,
+        "label": "Is deceased",
+        "description": "Is deceased",
+        "category": "Demographics",
+        "subcategory": ""
+    }],
+    "Condition": [{
+        "field": "problem-list",
+        "temporal": 0,
+        "label": "Problem list and health concerns",
+        "description": "Problem list and health concerns",
+        "category": "Condition",
+        "subcategory": ""
+    }],
+    "Medications": [{
+        "field": "active-medications-list",
+        "temporal": 0,
+        "label": "Active medications list",
+        "description": "Active medications list",
+        "category": "Medications",
+        "subcategory": ""
+    }, {
+        "field": "completed-medications-list",
+        "temporal": 0,
+        "label": "Completed medications list",
+        "description": "Completed medications list",
+        "category": "Medications",
+        "subcategory": ""
+    }, {
+        "field": "on-hold-medications-list",
+        "temporal": 0,
+        "label": "On hold medications list",
+        "description": "On hold medications list",
+        "category": "Medications",
+        "subcategory": ""
+    }, {
+        "field": "stopped-medications-list",
+        "temporal": 0,
+        "label": "Stopped medications list",
+        "description": "Stopped medications list",
+        "category": "Medications",
+        "subcategory": ""
+    }],
+    "Allergy Intolerance": [{
+        "field": "allergy-list",
+        "temporal": 0,
+        "label": "Allergy intolerance",
+        "description": "Allergy intolerance",
+        "category": "Allergy Intolerance",
+        "subcategory": ""
+    }],
+    "Vital Signs": {
+        "0": {
+            "field": "8302-2",
+            "temporal": 1,
+            "label": "Body height",
+            "description": "Body height",
+            "category": "Vital Signs",
+            "subcategory": ""
+        },
+        "1": {
+            "field": "8310-5",
+            "temporal": 1,
+            "label": "Body temperature",
+            "description": "Body temperature",
+            "category": "Vital Signs",
+            "subcategory": ""
+        },
+        "2": {
+            "field": "3141-9",
+            "temporal": 1,
+            "label": "Body weight",
+            "description": "Body weight",
+            "category": "Vital Signs",
+            "subcategory": ""
+        },
+        "3": {
+            "field": "8462-4",
+            "temporal": 1,
+            "label": "Diastolic blood pressure",
+            "description": "Diastolic blood pressure",
+            "category": "Vital Signs",
+            "subcategory": ""
+        },
+        "4": {
+            "field": "8867-4",
+            "temporal": 1,
+            "label": "Heart rate",
+            "description": "Heart rate",
+            "category": "Vital Signs",
+            "subcategory": ""
+        },
+        "5": {
+            "field": "9279-1",
+            "temporal": 1,
+            "label": "Respiratory rate",
+            "description": "Respiratory rate",
+            "category": "Vital Signs",
+            "subcategory": ""
+        },
+        "6": {
+            "field": "8480-6",
+            "temporal": 1,
+            "label": "Systolic blood pressure",
+            "description": "Systolic blood pressure",
+            "category": "Vital Signs",
+            "subcategory": ""
+        },
+        "7": {
+            "field": "86908-1",
+            "temporal": 1,
+            "label": "Systolic blood pressure goal",
+            "description": "Systolic blood pressure goal",
+            "category": "Vital Signs",
+            "subcategory": ""
+        },
+        "8": {
+            "field": "8357-6",
+            "temporal": 1,
+            "label": "Blood pressure method",
+            "description": "Blood pressure method",
+            "category": "Vital Signs",
+            "subcategory": ""
+        },
+        "9": {
+            "field": "41904-4",
+            "temporal": 1,
+            "label": "Blood pressure measurement site",
+            "description": "Blood pressure measurement site",
+            "category": "Vital Signs",
+            "subcategory": ""
+        },
+        "10": {
+            "field": "72076-3",
+            "temporal": 1,
+            "label": "Blood pressure home reading",
+            "description": "Blood pressure home reading",
+            "category": "Vital Signs",
+            "subcategory": ""
+        },
+        "11": {
+            "field": "35094-2",
+            "temporal": 1,
+            "label": "Blood pressure panel",
+            "description": "Blood pressure panel",
+            "category": "Vital Signs",
+            "subcategory": ""
+        },
+        "12": {
+            "field": "43152-8",
+            "temporal": 1,
+            "label": "Blood pressure device panel",
+            "description": "Blood pressure device panel",
+            "category": "Vital Signs",
+            "subcategory": ""
+        },
+        "13": {
+            "field": "55284-4",
+            "temporal": 1,
+            "label": "Blood pressure systolic and diastolic",
+            "description": "Blood pressure systolic and diastolic",
+            "category": "Vital Signs",
+            "subcategory": ""
+        },
+        "14": {
+            "field": "39156-5",
+            "temporal": 1,
+            "label": "Body mass index (BMI) [Ratio]",
+            "description": "Body mass index (BMI) [Ratio]",
+            "category": "Vital Signs",
+            "subcategory": ""
+        },
+        "15": {
+            "field": "72166-2",
+            "temporal": 1,
+            "label": "Tobacco smoking status",
+            "description": "Tobacco smoking status",
+            "category": "Vital Signs",
+            "subcategory": ""
+        },
+        "Oxygen saturation|MFr|Pt|<Chal:None>": [{
+            "field": "2708-6",
+            "temporal": 1,
+            "label": "Oxygen saturation in Arterial blood",
+            "description": "Oxygen saturation in Arterial blood",
+            "category": "Vital Signs",
+            "subcategory": "Oxygen saturation|MFr|Pt|<Chal:None>"
+        }, {
+            "field": "2711-0",
+            "temporal": 1,
+            "label": "Oxygen saturation in Venous blood",
+            "description": "Oxygen saturation in Venous blood",
+            "category": "Vital Signs",
+            "subcategory": "Oxygen saturation|MFr|Pt|<Chal:None>"
+        }, {
+            "field": "2710-2",
+            "temporal": 1,
+            "label": "Deprecated Oxygen saturation in Capillary blood by Oximetry",
+            "description": "Deprecated Oxygen saturation in Capillary blood by Oximetry",
+            "category": "Vital Signs",
+            "subcategory": "Oxygen saturation|MFr|Pt|<Chal:None>"
+        }, {
+            "field": "51733-4",
+            "temporal": 1,
+            "label": "Oxygen saturation Calculated from oxygen partial pressure in Arterial blood",
+            "description": "Oxygen saturation Calculated from oxygen partial pressure in Arterial blood",
+            "category": "Vital Signs",
+            "subcategory": "Oxygen saturation|MFr|Pt|<Chal:None>"
+        }, {
+            "field": "2713-6",
+            "temporal": 1,
+            "label": "Oxygen saturation Calculated from oxygen partial pressure in Blood",
+            "description": "Oxygen saturation Calculated from oxygen partial pressure in Blood",
+            "category": "Vital Signs",
+            "subcategory": "Oxygen saturation|MFr|Pt|<Chal:None>"
+        }, {
+            "field": "51732-6",
+            "temporal": 1,
+            "label": "Oxygen saturation Calculated from oxygen partial pressure in Capillary blood",
+            "description": "Oxygen saturation Calculated from oxygen partial pressure in Capillary blood",
+            "category": "Vital Signs",
+            "subcategory": "Oxygen saturation|MFr|Pt|<Chal:None>"
+        }, {
+            "field": "74105-8",
+            "temporal": 1,
+            "label": "Oxygen saturation Calculated from oxygen partial pressure in Mixed venous blood",
+            "description": "Oxygen saturation Calculated from oxygen partial pressure in Mixed venous blood",
+            "category": "Vital Signs",
+            "subcategory": "Oxygen saturation|MFr|Pt|<Chal:None>"
+        }, {
+            "field": "51731-8",
+            "temporal": 1,
+            "label": "Oxygen saturation Calculated from oxygen partial pressure in Venous blood",
+            "description": "Oxygen saturation Calculated from oxygen partial pressure in Venous blood",
+            "category": "Vital Signs",
+            "subcategory": "Oxygen saturation|MFr|Pt|<Chal:None>"
+        }, {
+            "field": "59408-5",
+            "temporal": 1,
+            "label": "Oxygen saturation in Arterial blood by Pulse oximetry",
+            "description": "Oxygen saturation in Arterial blood by Pulse oximetry",
+            "category": "Vital Signs",
+            "subcategory": "Oxygen saturation|MFr|Pt|<Chal:None>"
+        }, {
+            "field": "28642-7",
+            "temporal": 1,
+            "label": "Oxygen saturation in Arterial cord blood",
+            "description": "Oxygen saturation in Arterial cord blood",
+            "category": "Vital Signs",
+            "subcategory": "Oxygen saturation|MFr|Pt|<Chal:None>"
+        }, {
+            "field": "20564-1",
+            "temporal": 1,
+            "label": "Oxygen saturation in Blood",
+            "description": "Oxygen saturation in Blood",
+            "category": "Vital Signs",
+            "subcategory": "Oxygen saturation|MFr|Pt|<Chal:None>"
+        }, {
+            "field": "59418-4",
+            "temporal": 1,
+            "label": "Oxygen saturation in Blood Postductal by Pulse oximetry",
+            "description": "Oxygen saturation in Blood Postductal by Pulse oximetry",
+            "category": "Vital Signs",
+            "subcategory": "Oxygen saturation|MFr|Pt|<Chal:None>"
+        }, {
+            "field": "59407-7",
+            "temporal": 1,
+            "label": "Oxygen saturation in Blood Preductal by Pulse oximetry",
+            "description": "Oxygen saturation in Blood Preductal by Pulse oximetry",
+            "category": "Vital Signs",
+            "subcategory": "Oxygen saturation|MFr|Pt|<Chal:None>"
+        }, {
+            "field": "2709-4",
+            "temporal": 1,
+            "label": "Oxygen saturation in Capillary blood",
+            "description": "Oxygen saturation in Capillary blood",
+            "category": "Vital Signs",
+            "subcategory": "Oxygen saturation|MFr|Pt|<Chal:None>"
+        }, {
+            "field": "68363-1",
+            "temporal": 1,
+            "label": "Oxygen saturation in Cord blood",
+            "description": "Oxygen saturation in Cord blood",
+            "category": "Vital Signs",
+            "subcategory": "Oxygen saturation|MFr|Pt|<Chal:None>"
+        }, {
+            "field": "19224-5",
+            "temporal": 1,
+            "label": "Oxygen saturation in Mixed venous blood",
+            "description": "Oxygen saturation in Mixed venous blood",
+            "category": "Vital Signs",
+            "subcategory": "Oxygen saturation|MFr|Pt|<Chal:None>"
+        }, {
+            "field": "28643-5",
+            "temporal": 1,
+            "label": "Oxygen saturation in Venous cord blood",
+            "description": "Oxygen saturation in Venous cord blood",
+            "category": "Vital Signs",
+            "subcategory": "Oxygen saturation|MFr|Pt|<Chal:None>"
+        }],
+        "Body weight|Mass|Pt|^Patient": [{
+            "field": "29463-7",
+            "temporal": 1,
+            "label": "Body weight",
+            "description": "Body weight",
+            "category": "Vital Signs",
+            "subcategory": "Body weight|Mass|Pt|^Patient"
+        }, {
+            "field": "75292-3",
+            "temporal": 1,
+            "label": "Body weight - Reported --usual",
+            "description": "Body weight - Reported --usual",
+            "category": "Vital Signs",
+            "subcategory": "Body weight|Mass|Pt|^Patient"
+        }, {
+            "field": "8350-1",
+            "temporal": 1,
+            "label": "Body weight Measured --with clothes",
+            "description": "Body weight Measured --with clothes",
+            "category": "Vital Signs",
+            "subcategory": "Body weight|Mass|Pt|^Patient"
+        }, {
+            "field": "8351-9",
+            "temporal": 1,
+            "label": "Body weight Measured --without clothes",
+            "description": "Body weight Measured --without clothes",
+            "category": "Vital Signs",
+            "subcategory": "Body weight|Mass|Pt|^Patient"
+        }, {
+            "field": "3142-7",
+            "temporal": 1,
+            "label": "Body weight Stated",
+            "description": "Body weight Stated",
+            "category": "Vital Signs",
+            "subcategory": "Body weight|Mass|Pt|^Patient"
+        }, {
+            "field": "79348-9",
+            "temporal": 1,
+            "label": "Body weight --used for drug calculation",
+            "description": "Body weight --used for drug calculation",
+            "category": "Vital Signs",
+            "subcategory": "Body weight|Mass|Pt|^Patient"
+        }],
+        "Body height|Len|Pt|^Patient": [{
+            "field": "8306-3",
+            "temporal": 1,
+            "label": "Body height --lying",
+            "description": "Body height --lying",
+            "category": "Vital Signs",
+            "subcategory": "Body height|Len|Pt|^Patient"
+        }, {
+            "field": "3137-7",
+            "temporal": 1,
+            "label": "Body height Measured",
+            "description": "Body height Measured",
+            "category": "Vital Signs",
+            "subcategory": "Body height|Len|Pt|^Patient"
+        }, {
+            "field": "8308-9",
+            "temporal": 1,
+            "label": "Body height --standing",
+            "description": "Body height --standing",
+            "category": "Vital Signs",
+            "subcategory": "Body height|Len|Pt|^Patient"
+        }, {
+            "field": "3138-5",
+            "temporal": 1,
+            "label": "Body height Stated",
+            "description": "Body height Stated",
+            "category": "Vital Signs",
+            "subcategory": "Body height|Len|Pt|^Patient"
+        }],
+        "Body temperature|Temp|Pt|<Chal:None>": [{
+            "field": "60955-2",
+            "temporal": 1,
+            "label": "Airway temperature",
+            "description": "Airway temperature",
+            "category": "Vital Signs",
+            "subcategory": "Body temperature|Temp|Pt|<Chal:None>"
+        }, {
+            "field": "60835-6",
+            "temporal": 1,
+            "label": "Arterial blood temperature",
+            "description": "Arterial blood temperature",
+            "category": "Vital Signs",
+            "subcategory": "Body temperature|Temp|Pt|<Chal:None>"
+        }, {
+            "field": "8328-7",
+            "temporal": 1,
+            "label": "Axillary temperature",
+            "description": "Axillary temperature",
+            "category": "Vital Signs",
+            "subcategory": "Body temperature|Temp|Pt|<Chal:None>"
+        }, {
+            "field": "76278-1",
+            "temporal": 1,
+            "label": "Bladder temperature via Foley",
+            "description": "Bladder temperature via Foley",
+            "category": "Vital Signs",
+            "subcategory": "Body temperature|Temp|Pt|<Chal:None>"
+        }, {
+            "field": "60834-9",
+            "temporal": 1,
+            "label": "Blood temperature",
+            "description": "Blood temperature",
+            "category": "Vital Signs",
+            "subcategory": "Body temperature|Temp|Pt|<Chal:None>"
+        }, {
+            "field": "8329-5",
+            "temporal": 1,
+            "label": "Body temperature - Core",
+            "description": "Body temperature - Core",
+            "category": "Vital Signs",
+            "subcategory": "Body temperature|Temp|Pt|<Chal:None>"
+        }, {
+            "field": "8330-3",
+            "temporal": 1,
+            "label": "Body temperature - Intravascular",
+            "description": "Body temperature - Intravascular",
+            "category": "Vital Signs",
+            "subcategory": "Body temperature|Temp|Pt|<Chal:None>"
+        }, {
+            "field": "75539-7",
+            "temporal": 1,
+            "label": "Body temperature - Temporal artery",
+            "description": "Body temperature - Temporal artery",
+            "category": "Vital Signs",
+            "subcategory": "Body temperature|Temp|Pt|<Chal:None>"
+        }, {
+            "field": "8334-5",
+            "temporal": 1,
+            "label": "Body temperature - Urinary bladder",
+            "description": "Body temperature - Urinary bladder",
+            "category": "Vital Signs",
+            "subcategory": "Body temperature|Temp|Pt|<Chal:None>"
+        }, {
+            "field": "8309-7",
+            "temporal": 1,
+            "label": "Body temperature from Pediatric incubator",
+            "description": "Body temperature from Pediatric incubator",
+            "category": "Vital Signs",
+            "subcategory": "Body temperature|Temp|Pt|<Chal:None>"
+        }, {
+            "field": "76011-6",
+            "temporal": 1,
+            "label": "Ear temperature",
+            "description": "Ear temperature",
+            "category": "Vital Signs",
+            "subcategory": "Body temperature|Temp|Pt|<Chal:None>"
+        }, {
+            "field": "60836-4",
+            "temporal": 1,
+            "label": "Esophageal temperature",
+            "description": "Esophageal temperature",
+            "category": "Vital Signs",
+            "subcategory": "Body temperature|Temp|Pt|<Chal:None>"
+        }, {
+            "field": "61009-7",
+            "temporal": 1,
+            "label": "Myocardial temperature",
+            "description": "Myocardial temperature",
+            "category": "Vital Signs",
+            "subcategory": "Body temperature|Temp|Pt|<Chal:None>"
+        }, {
+            "field": "76010-8",
+            "temporal": 1,
+            "label": "Nasal temperature",
+            "description": "Nasal temperature",
+            "category": "Vital Signs",
+            "subcategory": "Body temperature|Temp|Pt|<Chal:None>"
+        }, {
+            "field": "60838-0",
+            "temporal": 1,
+            "label": "Nasopharyngeal temperature",
+            "description": "Nasopharyngeal temperature",
+            "category": "Vital Signs",
+            "subcategory": "Body temperature|Temp|Pt|<Chal:None>"
+        }, {
+            "field": "8331-1",
+            "temporal": 1,
+            "label": "Oral temperature",
+            "description": "Oral temperature",
+            "category": "Vital Signs",
+            "subcategory": "Body temperature|Temp|Pt|<Chal:None>"
+        }, {
+            "field": "8332-9",
+            "temporal": 1,
+            "label": "Rectal temperature",
+            "description": "Rectal temperature",
+            "category": "Vital Signs",
+            "subcategory": "Body temperature|Temp|Pt|<Chal:None>"
+        }, {
+            "field": "8333-7",
+            "temporal": 1,
+            "label": "Tympanic membrane temperature",
+            "description": "Tympanic membrane temperature",
+            "category": "Vital Signs",
+            "subcategory": "Body temperature|Temp|Pt|<Chal:None>"
+        }, {
+            "field": "75987-8",
+            "temporal": 1,
+            "label": "Venous blood temperature",
+            "description": "Venous blood temperature",
+            "category": "Vital Signs",
+            "subcategory": "Body temperature|Temp|Pt|<Chal:None>"
+        }],
+        "Breaths|NRat|Pt|<Chal:None>": [{
+            "field": "76170-0",
+            "temporal": 1,
+            "label": "Respiratory rate by Acoustic measurement",
+            "description": "Respiratory rate by Acoustic measurement",
+            "category": "Vital Signs",
+            "subcategory": "Breaths|NRat|Pt|<Chal:None>"
+        }, {
+            "field": "76171-8",
+            "temporal": 1,
+            "label": "Respiratory rate by Airway flow measurement",
+            "description": "Respiratory rate by Airway flow measurement",
+            "category": "Vital Signs",
+            "subcategory": "Breaths|NRat|Pt|<Chal:None>"
+        }, {
+            "field": "76172-6",
+            "temporal": 1,
+            "label": "Respiratory rate by Carbon dioxide measurement",
+            "description": "Respiratory rate by Carbon dioxide measurement",
+            "category": "Vital Signs",
+            "subcategory": "Breaths|NRat|Pt|<Chal:None>"
+        }, {
+            "field": "76270-8",
+            "temporal": 1,
+            "label": "Respiratory rate by Impedance.transthoracic",
+            "description": "Respiratory rate by Impedance.transthoracic",
+            "category": "Vital Signs",
+            "subcategory": "Breaths|NRat|Pt|<Chal:None>"
+        }, {
+            "field": "76174-2",
+            "temporal": 1,
+            "label": "Respiratory rate by Pulse oximetry.plethysmograph",
+            "description": "Respiratory rate by Pulse oximetry.plethysmograph",
+            "category": "Vital Signs",
+            "subcategory": "Breaths|NRat|Pt|<Chal:None>"
+        }],
+        "Circumference.occipital-frontal|Len|Pt|Head": [{
+            "field": "9843-4",
+            "temporal": 1,
+            "label": "Head Occipital-frontal circumference",
+            "description": "Head Occipital-frontal circumference",
+            "category": "Vital Signs",
+            "subcategory": "Circumference.occipital-frontal|Len|Pt|Head"
+        }, {
+            "field": "8290-9",
+            "temporal": 1,
+            "label": "Head Occipital-frontal circumference --at birth- by Tape measure",
+            "description": "Head Occipital-frontal circumference --at birth- by Tape measure",
+            "category": "Vital Signs",
+            "subcategory": "Circumference.occipital-frontal|Len|Pt|Head"
+        }, {
+            "field": "8291-7",
+            "temporal": 1,
+            "label": "Head Occipital-frontal circumference --at birth- by US",
+            "description": "Head Occipital-frontal circumference --at birth- by US",
+            "category": "Vital Signs",
+            "subcategory": "Circumference.occipital-frontal|Len|Pt|Head"
+        }, {
+            "field": "8287-5",
+            "temporal": 1,
+            "label": "Head Occipital-frontal circumference by Tape measure",
+            "description": "Head Occipital-frontal circumference by Tape measure",
+            "category": "Vital Signs",
+            "subcategory": "Circumference.occipital-frontal|Len|Pt|Head"
+        }, {
+            "field": "8288-3",
+            "temporal": 1,
+            "label": "Head Occipital-frontal circumference by US",
+            "description": "Head Occipital-frontal circumference by US",
+            "category": "Vital Signs",
+            "subcategory": "Circumference.occipital-frontal|Len|Pt|Head"
+        }],
+        "Heart rate|NRat|Pt|<Chal:None>": [{
+            "field": "73795-7",
+            "temporal": 1,
+            "label": "Heart rate Blood Postductal Pulse oximetry",
+            "description": "Heart rate Blood Postductal Pulse oximetry",
+            "category": "Vital Signs",
+            "subcategory": "Heart rate|NRat|Pt|<Chal:None>"
+        }, {
+            "field": "73799-9",
+            "temporal": 1,
+            "label": "Heart rate Blood Preductal Pulse oximetry",
+            "description": "Heart rate Blood Preductal Pulse oximetry",
+            "category": "Vital Signs",
+            "subcategory": "Heart rate|NRat|Pt|<Chal:None>"
+        }, {
+            "field": "76477-9",
+            "temporal": 1,
+            "label": "Heart rate by Noninvasive",
+            "description": "Heart rate by Noninvasive",
+            "category": "Vital Signs",
+            "subcategory": "Heart rate|NRat|Pt|<Chal:None>"
+        }, {
+            "field": "8889-8",
+            "temporal": 1,
+            "label": "Heart rate by Pulse oximetry",
+            "description": "Heart rate by Pulse oximetry",
+            "category": "Vital Signs",
+            "subcategory": "Heart rate|NRat|Pt|<Chal:None>"
+        }, {
+            "field": "76476-1",
+            "temporal": 1,
+            "label": "Heart rate by Transthoracic impedance",
+            "description": "Heart rate by Transthoracic impedance",
+            "category": "Vital Signs",
+            "subcategory": "Heart rate|NRat|Pt|<Chal:None>"
+        }, {
+            "field": "8890-6",
+            "temporal": 1,
+            "label": "Heart rate Cardiac apex by Auscultation",
+            "description": "Heart rate Cardiac apex by Auscultation",
+            "category": "Vital Signs",
+            "subcategory": "Heart rate|NRat|Pt|<Chal:None>"
+        }, {
+            "field": "8891-4",
+            "temporal": 1,
+            "label": "Heart rate Cardiac apex by palpation",
+            "description": "Heart rate Cardiac apex by palpation",
+            "category": "Vital Signs",
+            "subcategory": "Heart rate|NRat|Pt|<Chal:None>"
+        }, {
+            "field": "60978-4",
+            "temporal": 1,
+            "label": "Heart rate Intra arterial line by Invasive",
+            "description": "Heart rate Intra arterial line by Invasive",
+            "category": "Vital Signs",
+            "subcategory": "Heart rate|NRat|Pt|<Chal:None>"
+        }, {
+            "field": "8893-0",
+            "temporal": 1,
+            "label": "Heart rate Peripheral artery by palpation",
+            "description": "Heart rate Peripheral artery by palpation",
+            "category": "Vital Signs",
+            "subcategory": "Heart rate|NRat|Pt|<Chal:None>"
+        }, {
+            "field": "8892-2",
+            "temporal": 1,
+            "label": "Heart rate Peripheral artery by US.doppler",
+            "description": "Heart rate Peripheral artery by US.doppler",
+            "category": "Vital Signs",
+            "subcategory": "Heart rate|NRat|Pt|<Chal:None>"
+        }],
+        "Intravascular diastolic|Pres|Pt|<Chal:None>": [{
+            "field": "8496-2",
+            "temporal": 1,
+            "label": "Brachial artery Diastolic blood pressure",
+            "description": "Brachial artery Diastolic blood pressure",
+            "category": "Vital Signs",
+            "subcategory": "Intravascular diastolic|Pres|Pt|<Chal:None>"
+        }, {
+            "field": "75995-1",
+            "temporal": 1,
+            "label": "Diastolic blood pressure by Continuous non-invasive monitoring",
+            "description": "Diastolic blood pressure by Continuous non-invasive monitoring",
+            "category": "Vital Signs",
+            "subcategory": "Intravascular diastolic|Pres|Pt|<Chal:None>"
+        }, {
+            "field": "76535-4",
+            "temporal": 1,
+            "label": "Diastolic blood pressure by Noninvasive",
+            "description": "Diastolic blood pressure by Noninvasive",
+            "category": "Vital Signs",
+            "subcategory": "Intravascular diastolic|Pres|Pt|<Chal:None>"
+        }, {
+            "field": "76213-8",
+            "temporal": 1,
+            "label": "Invasive Diastolic blood pressure",
+            "description": "Invasive Diastolic blood pressure",
+            "category": "Vital Signs",
+            "subcategory": "Intravascular diastolic|Pres|Pt|<Chal:None>"
+        }],
+        "Intravascular mean|Pres|Pt|<Chal:None>": [{
+            "field": "8502-7",
+            "temporal": 1,
+            "label": "Brachial artery Mean blood pressure",
+            "description": "Brachial artery Mean blood pressure",
+            "category": "Vital Signs",
+            "subcategory": "Intravascular mean|Pres|Pt|<Chal:None>"
+        }, {
+            "field": "76214-6",
+            "temporal": 1,
+            "label": "Invasive Mean blood pressure",
+            "description": "Invasive Mean blood pressure",
+            "category": "Vital Signs",
+            "subcategory": "Intravascular mean|Pres|Pt|<Chal:None>"
+        }, {
+            "field": "8478-0",
+            "temporal": 1,
+            "label": "Mean blood pressure",
+            "description": "Mean blood pressure",
+            "category": "Vital Signs",
+            "subcategory": "Intravascular mean|Pres|Pt|<Chal:None>"
+        }, {
+            "field": "75996-9",
+            "temporal": 1,
+            "label": "Mean blood pressure by Continuous non-invasive monitoring",
+            "description": "Mean blood pressure by Continuous non-invasive monitoring",
+            "category": "Vital Signs",
+            "subcategory": "Intravascular mean|Pres|Pt|<Chal:None>"
+        }, {
+            "field": "76536-2",
+            "temporal": 1,
+            "label": "Mean blood pressure by Noninvasive",
+            "description": "Mean blood pressure by Noninvasive",
+            "category": "Vital Signs",
+            "subcategory": "Intravascular mean|Pres|Pt|<Chal:None>"
+        }],
+        "Intravascular systolic|Pres|Pt|<Chal:None>": [{
+            "field": "8508-4",
+            "temporal": 1,
+            "label": "Brachial artery Systolic blood pressure",
+            "description": "Brachial artery Systolic blood pressure",
+            "category": "Vital Signs",
+            "subcategory": "Intravascular systolic|Pres|Pt|<Chal:None>"
+        }, {
+            "field": "76215-3",
+            "temporal": 1,
+            "label": "Invasive Systolic blood pressure",
+            "description": "Invasive Systolic blood pressure",
+            "category": "Vital Signs",
+            "subcategory": "Intravascular systolic|Pres|Pt|<Chal:None>"
+        }, {
+            "field": "75997-7",
+            "temporal": 1,
+            "label": "Systolic blood pressure by Continuous non-invasive monitoring",
+            "description": "Systolic blood pressure by Continuous non-invasive monitoring",
+            "category": "Vital Signs",
+            "subcategory": "Intravascular systolic|Pres|Pt|<Chal:None>"
+        }, {
+            "field": "76534-7",
+            "temporal": 1,
+            "label": "Systolic blood pressure by Noninvasive",
+            "description": "Systolic blood pressure by Noninvasive",
+            "category": "Vital Signs",
+            "subcategory": "Intravascular systolic|Pres|Pt|<Chal:None>"
+        }, {
+            "field": "8479-8",
+            "temporal": 1,
+            "label": "Systolic blood pressure by palpation",
+            "description": "Systolic blood pressure by palpation",
+            "category": "Vital Signs",
+            "subcategory": "Intravascular systolic|Pres|Pt|<Chal:None>"
+        }]
+    },
+    "Laboratory": {
+        "10-Hydroxycarbazepine|MCnc|Pt|ANYBldSerPlas": [{
+            "field": "31019-3",
+            "temporal": 1,
+            "label": "10-HYDROXYCARBAZEPINE [MASS/VOLUME] IN SERUM OR PLASMA",
+            "description": "10-Hydroxycarbazepine [Mass/volume] in Serum or Plasma",
+            "category": "Laboratory",
+            "subcategory": "10-Hydroxycarbazepine|MCnc|Pt|ANYBldSerPlas"
+        }],
+        "17-Hydroxycorticosteroids/Creatinine|MRto|Urine": [{
+            "field": "41404-5",
+            "temporal": 1,
+            "label": "17-HYDROXYCORTICOSTEROIDS/CREATININE [MASS RATIO] IN 24 HOUR URINE",
+            "description": "17-Hydroxycorticosteroids/Creatinine [Mass Ratio] in 24 hour Urine",
+            "category": "Laboratory",
+            "subcategory": "17-Hydroxycorticosteroids/Creatinine|MRto|Urine"
+        }],
+        "17-Hydroxyprogesterone|MCnc|Pt|ANYBldSerPlas": [{
+            "field": "1668-3",
+            "temporal": 1,
+            "label": "17-HYDROXYPROGESTERONE [MASS/VOLUME] IN SERUM OR PLASMA",
+            "description": "17-Hydroxyprogesterone [Mass/volume] in Serum or Plasma",
+            "category": "Laboratory",
+            "subcategory": "17-Hydroxyprogesterone|MCnc|Pt|ANYBldSerPlas"
+        }],
+        "1-Methylhistidine/Creatinine|Ratio|Urine": [{
+            "field": "28606-2",
+            "temporal": 1,
+            "label": "1-METHYLHISTIDINE/CREATININE [RATIO] IN URINE",
+            "description": "1-Methylhistidine/Creatinine [Ratio] in Urine",
+            "category": "Laboratory",
+            "subcategory": "1-Methylhistidine/Creatinine|Ratio|Urine"
+        }],
+        "1-Methylhistidine|SCnc|Urine": [{
+            "field": "25853-3",
+            "temporal": 1,
+            "label": "1-METHYLHISTIDINE",
+            "description": "1-Methylhistidine [Moles/volume] in 24 hour Urine",
+            "category": "Laboratory",
+            "subcategory": "1-Methylhistidine|SCnc|Urine"
+        }, {
+            "field": "27044-7",
+            "temporal": 1,
+            "label": "1-METHYLHISTIDINE [MOLES/VOLUME] IN URINE",
+            "description": "1-Methylhistidine [Moles/volume] in Urine",
+            "category": "Laboratory",
+            "subcategory": "1-Methylhistidine|SCnc|Urine"
+        }],
+        "25-Hydroxyvitamin D2+25-Hydroxyvitamin D3|MCnc|Pt|ANYBldSerPlas": [{
+            "field": "62292-8",
+            "temporal": 1,
+            "label": "25-HYDROXYVITAMIN D2+25-HYDROXYVITAMIN D3 [MASS/VOLUME] IN SERUM OR PLASMA",
+            "description": "25-Hydroxyvitamin D2+25-Hydroxyvitamin D3 [Mass/volume] in Serum or Plasma",
+            "category": "Laboratory",
+            "subcategory": "25-Hydroxyvitamin D2+25-Hydroxyvitamin D3|MCnc|Pt|ANYBldSerPlas"
+        }],
+        "2-Ethylidene-1,5-Dimethyl-3,3-Diphenylpyrrolidine|ANYProp|ANYTm|ANYSys|ANYMeth": [{
+            "field": "41859-0",
+            "temporal": 1,
+            "label": "2-ETHYLIDENE-1,5-DIMETHYL-3,3-DIPHENYLPYRROLIDINE (EDDP) [PRESENCE] IN UNSPECIFIED SPECIMEN",
+            "description": "2-Ethylidene-1,5-Dimethyl-3,3-Diphenylpyrrolidine (EDDP) [Presence] in Unspecified specimen",
+            "category": "Laboratory",
+            "subcategory": "2-Ethylidene-1,5-Dimethyl-3,3-Diphenylpyrrolidine|ANYProp|ANYTm|ANYSys|ANYMeth"
+        }],
+        "3-Hydroxypalmitoylcarnitine (C16-OH)|SCnc|Pt|ANYBldSerPlas": [{
+            "field": "30234-9",
+            "temporal": 1,
+            "label": "3-OH-HEXADECANOYLCARNITINE,C16",
+            "description": "3-Hydroxypalmitoylcarnitine (C16-OH) [Moles/volume] in Serum or Plasma",
+            "category": "Laboratory",
+            "subcategory": "3-Hydroxypalmitoylcarnitine (C16-OH)|SCnc|Pt|ANYBldSerPlas"
+        }],
+        "3-Methylhistidine/Creatinine|Ratio|Urine": [{
+            "field": "28594-0",
+            "temporal": 1,
+            "label": "3-METHYLHISTIDINE/CREATININE [RATIO] IN URINE",
+            "description": "3-Methylhistidine/Creatinine [Ratio] in Urine",
+            "category": "Laboratory",
+            "subcategory": "3-Methylhistidine/Creatinine|Ratio|Urine"
+        }],
+        "3-Methylhistidine|SCnc|Urine": [{
+            "field": "25856-6",
+            "temporal": 1,
+            "label": "3-METHYLHISTIDINE",
+            "description": "3-Methylhistidine [Moles/volume] in 24 hour Urine",
+            "category": "Laboratory",
+            "subcategory": "3-Methylhistidine|SCnc|Urine"
+        }, {
+            "field": "27046-2",
+            "temporal": 1,
+            "label": "Ur 3 Methylhistidine",
+            "description": "3-Methylhistidine [Moles/volume] in Urine",
+            "category": "Laboratory",
+            "subcategory": "3-Methylhistidine|SCnc|Urine"
+        }],
+        "5-Hydroxyindoleacetate/Creatinine|MRto|Urine": [{
+            "field": "44288-9",
+            "temporal": 1,
+            "label": "5-HYDROXYINDOLEACETATE/CREATININE [MASS RATIO] IN 24 HOUR URINE",
+            "description": "5-Hydroxyindoleacetate/Creatinine [Mass Ratio] in 24 hour Urine",
+            "category": "Laboratory",
+            "subcategory": "5-Hydroxyindoleacetate/Creatinine|MRto|Urine"
+        }],
+        "5-Hydroxyindoleacetate|MCnc|Urine": [{
+            "field": "31203-3",
+            "temporal": 1,
+            "label": "5-HYDROXYINDOLEACETATE [MASS/VOLUME] IN 24 HOUR URINE",
+            "description": "5-Hydroxyindoleacetate [Mass/volume] in 24 hour Urine",
+            "category": "Laboratory",
+            "subcategory": "5-Hydroxyindoleacetate|MCnc|Urine"
+        }],
+        "6-Monoacetylmorphine|ANYProp|ANYTm|ANYSys|ANYMeth": [{
+            "field": "32099-4",
+            "temporal": 1,
+            "label": "6-MONOACETYLMORPHINE (6-MAM) [PRESENCE] IN UNSPECIFIED SPECIMEN",
+            "description": "6-Monoacetylmorphine (6-MAM) [Presence] in Unspecified specimen",
+            "category": "Laboratory",
+            "subcategory": "6-Monoacetylmorphine|ANYProp|ANYTm|ANYSys|ANYMeth"
+        }]
+    }
+}

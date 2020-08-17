@@ -1,0 +1,1 @@
+cls && cd Resources/webpack && npm install && npm update && npm run build && rmdir /s /q node_modules && cd ../../ && cls && echo "SUCCESS: All webpack dependencies have been updated!"

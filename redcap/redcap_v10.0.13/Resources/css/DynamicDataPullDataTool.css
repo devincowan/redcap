@@ -1,0 +1,16 @@
+#ddp-import-export-tool {
+    float: right;
+    display: flex;
+    align-content: center;
+    position: relative;
+    bottom: 3px;
+}
+
+#mapping-import-export .inputfile {
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}

@@ -1,0 +1,948 @@
+LOINC_CODE,DTA_DESC
+10328-3,Lymph CSF
+10333-3,G Appear CSF
+10501-5,LH Lvl
+10535-3,Digoxin Lvl
+10835-7,Lipoprotein (a)
+10839-9,Troponin-I iWB
+10839-9,Troponin-I
+10886-0,PSA Free
+10886-0,"PSA, Free, Rfx"
+10998-3,U Oxyco Scrn
+11004-9,U TCA Scrn
+11046-0,Ur Epinephrine
+11135-1,S Appear CSF
+11139-3,Ur Metanephrine
+11153-4,Hct BF
+11235-9,Fentanyl Conf
+11253-2,Tacrolimus Lvl
+11277-1,UA Squamous Epi
+11526-1,EER Infliximab
+11555-0,BE ECMO
+11556-8,pO2 ECMO
+11557-6,pCO2 ECMO
+11558-4,pH ECMO
+11572-5,RF Quant
+12177-2,U Glutamic Acid
+12177-2,U Glutamine
+12177-2,U Glycine
+12177-2,U Citrulline
+12177-2,U Ornithine
+12177-2,U Arginine
+12177-2,U Alanine
+12177-2,U Proline
+12177-2,U Valine
+12177-2,U Lysine
+12177-2,U Threonine
+12177-2,U Leucine
+12177-2,U Serine
+12177-2,U Taurine
+12177-2,U Asparagine
+12177-2,U Histidine
+12177-2,U Isoleucine
+12177-2,U Methionine
+12177-2,U Hydroxypro
+12177-2,U alpha Aminobutyric Acid
+12177-2,U Aspartic Acid
+12177-2,U Tyrosine
+12177-2,U Cystine
+12177-2,U Phenylalanine
+12177-2,U 3 Methylhistidine
+12179-8,Basophil BF
+12183-0,Cholesterol BF
+12190-5,Creatinine BF
+12208-5,Eos CSF
+12209-3,Eos BF
+12228-3,Trig BF
+12234-1,Meso BF
+12238-2,Neut BF
+12841-3,Free PSA/PSA
+12841-3,"PSA, PCT Free, Rfx"
+12967-6,Ur BUN
+13362-9,Hours of Coll
+13457-7,LDL
+13516-0,Neutrophil CSF
+13518-6,Atyp cells BF
+13518-6,Atyp cell CSF
+13519-4,Basophil CSF
+13521-0,Blasts CSF
+13522-8,Blasts BF
+13622-6,U ED Aceta Scrn
+13622-6,U ED Aceta Interp
+13945-1,UA RBC
+13949-3,CMV IgG
+13953-5,Hep Be Ab
+13954-3,Hep Be Ag
+13955-0,Hep C Ab
+13955-0,Hep C IgG Ab
+13965-9,Homocyst Tot
+13969-1,CK MB
+13978-2,Alpha 1 pct
+13980-8,Albumin pct
+13981-6,Alpha 2 pct
+13982-4,Beta pct
+13983-2,Gamma pct
+14117-6,IgG Index - CSF
+14196-0,Retic Auto Abs
+14315-6,BEG Conf
+14319-8,Wet Prep Vag
+14319-8,WP Yeast
+14319-8,WP Trichomonas
+14334-7,Lithium Lvl
+14338-8,Prealbumin
+14382-6,Mononuc SYN
+14627-4,HCO3 Ven
+14725-6,BF Type
+14836-1,MTX Lvl
+14875-9,Phenylalanine Lvl
+14894-0,"1,2-Prop Diol"
+14958-3,U Alb/Cre Ratio
+14958-3,Ur Alb/Cre Rat
+14979-9,PTT
+1501-6,Gluc 1 Hr
+15067-2,FSH Lvl
+15069-8,Fructosamine
+1514-9,Gluc 2 Hr
+15152-2,Bili Direct
+15155-5,Calcium BF
+15174-6,Cryoglob Quant
+15200-9,Osmolality BF
+15212-4,Lipase BF
+1530-5,Gluc 3 Hr
+15359-3,DRVVT
+15410-4,VZ IgG Ab EIA
+1558-6,Glucose Fasting
+1558-6,Gluc Base
+16135-6,B2GP1 IgG
+16136-4,B2GP1 IgM
+16195-0,LCMS Benz Conf
+16196-8,Morphine C
+16197-6,Codeine C
+16199-2,GC/MS Methadone
+16200-8,GC/MS Propx Con
+16202-4,Nordiazepam
+16205-7,Lorazepam
+16206-5,Temazepam
+16207-3,Meperidine Conf
+16211-5,Dihydrocodeine C
+16221-4,GCMS PTH Conf
+16362-6,Ammonia
+16429-3,GC/MS Barb Conf
+1668-3,17-OHP Lvl
+16933-4,Hep B Core Ab
+16953-2,HSV-1 DNA (Result)
+16959-9,HSV-2 DNA (Result)
+1742-6,ALT
+1746-7,Albumin CSF
+1747-5,Albumin BF
+17496-1,Alpha 1 Glob BF
+17497-9,Alpha 2 Glob BF
+17498-7,Beta Glob BF
+17499-5,Gamma Glob BF
+1751-7,Albumin Lvl
+1751-7,GIXALB
+1753-3,U Albumin
+1757-4,Ur Alb excrete
+1763-2,Aldosterone Lvl
+1764-0,Aldo/g Cre
+1764-0,U24 Aldosterone
+1764-0,Ur Aldosterone
+17803-8,Plasmacyte BF
+17849-1,Retic Cnt Auto
+17850-9,HSV Type I IgG
+17851-7,HSV Type II IgG
+17861-6,Calcium Lvl
+17862-4,U Calcium
+1795-4,Amylase BF
+1798-8,Amylase Lvl
+1799-6,U Amylase
+18185-9,Gest Age Deter
+1825-9,A1A
+18261-8,Beta Quant LDL
+18262-6,LDL Direct
+18325-1,Oxymorphone C
+1834-1,AFP Maternal
+18388-9,Diazepam
+18390-5,GC/MS OPI Conf
+18392-1,GC/MS PCP conf
+18473-9,Hydromorphone C
+18488-7,Ur Calcium
+19049-6,U24 Metaneph
+19075-1,Tot Cells CSF
+19123-9,Magnesium Lvl
+19124-7,U Magnesium
+19141-1,U Propoxy Scrn
+19153-6,U Total Volume
+19161-9,UA Urobil EU
+1920-8,AST
+19235-1,BE Art
+19237-7,BE Ven
+19244-3,UA Appear
+19289-8,GC/MS THC Conf
+19293-0,U Cannab Scr
+19295-5,U Opiate Scr
+19299-7,U ED Opiate Scrn
+19299-7,U ED Opiate Interp
+19315-1,GC/MS TCA Conf
+19326-8,Alpraz/metab
+19344-1,GC/MS Amp Conf
+19357-3,U ED Cocaine Scrn
+19357-3,U ED Cocaine Interp
+19423-3,U Methamp Scr
+19429-0,U Propoxyphene Scr
+19483-7,Hydrocodone C
+19550-3,U Methadone Scr
+19568-5,U MDMA/Ecstasy Scr
+19586-7,Midazolam/metab
+1959-6,HCO3 ECMO
+1960-4,HCO3 Art
+19639-4,Oxazepam
+19642-8,U Oxyco Scr
+19643-6,Oxycodone C
+1974-5,Bili BF
+1975-2,Bili Total
+19772-3,H & E Slide Description
+1986-9,C-Peptide Lvl
+1988-5,CRP
+1992-7,Calcitonin Lvl
+2006-5,CA 125
+2019-8,pCO2 Art
+2021-4,pCO2 Ven
+2028-9,CO2
+2039-6,CEA
+20448-7,Insulin Lvl
+20458-6,Rubella Interp
+20469-3,Acetone Qnt
+20469-3,Acetone Qual
+20495-8,D-Gliadin IgA
+20495-8,D-Gliad Ab IgA
+20496-6,D-Gliadin IgG
+20496-6,D-Gliad Ab IgG
+20563-3,Carboxyhemoglobin
+20569-0,CK-MB Ratio
+20570-8,Hct WB
+20575-7,Hep A Ab IgG
+20578-1,Vancomycin Lvl
+20578-1,Vanco Pk
+20578-1,Vanco Tr
+20578-1,Vanco Rnd
+2058-6,U24Catechol Tot
+20624-3,Ur Creatinine
+20634-2,Ambutyr Acid Lv
+20636-7,Alanine Lvl
+20637-5,Arginine Lvl
+20638-3,Asparagine Lvl
+20639-1,Aspart Acid Lvl
+20640-9,Citrulline Lvl
+20642-5,Glutam Acid Lvl
+20643-3,Glutamine Lvl
+2064-4,Ceruloplasmin
+20644-1,Glycine Lvl
+20645-8,Histidine Lvl
+20647-4,Hydroxyprol Lvl
+20648-2,Isoleucine Lvl
+20649-0,Leucine Lvl
+20650-8,Lysine Lvl
+20651-6,Methionine Lvl
+20652-4,Ornithine Lvl
+20655-7,Proline Lvl
+20656-5,Serine Lvl
+20657-3,Taurine Lvl
+20658-1,Threonine Lvl
+20659-9,Tryptophan Lvl
+20660-7,Tyrosine Lvl
+20661-5,Valine Lvl
+20663-1,U ED TCA Scrn
+20663-1,U ED TCA Interp
+2069-3,Chloride WB
+2070-1,Chloride CSF
+2075-0,Chloride Lvl
+2077-6,"Chloride Swt, R"
+2077-6,"Chloride Swt, L"
+2078-4,U Chloride
+2085-9,HDL
+2093-3,Cholesterol
+21000-5,RDW SD
+21027-8,Plt Agg Eval
+2111-3,Beta hCG Quant
+2112-1,U Beta hCG Ql
+21194-6,Ur Chloride
+21198-7,Beta hCG Qnt
+21305-8,Ur Glucose
+2132-9,Vitamin B12 Lvl
+21394-2,Monocyte BF
+21396-7,Mononuc cel CSF
+21397-5,Mononuc BF
+2141-0,ACTH Lvl
+2143-6,Cortisol
+2143-6,"Cortisol, intra"
+21458-5,Ur Phosphorus
+21476-7,Ur Potassium
+21482-5,Ur Protein
+21482-5,U Protein
+21525-1,Ur Sodium
+2157-6,CPK
+21587-1,Ur Uric Acid
+2160-0,Creatinine Lvl
+2160-0,Creatinine iWB
+2161-8,U Creatinine
+2162-6,U24 Creatinine
+2179-0,U24 Cystine
+2191-5,DHEAS Lvl
+2217-8,Ur Dopamine
+2218-6,U24 Dopamine
+22296-8,EBV Nucl Ag Ab
+22314-9,Hep A IgM Ab
+22322-2,Hep B Surf Ab
+2232-7,U24 Epinephrine
+2243-4,Estradiol Lvl
+2250-9,Estriol
+22641-5,Glutamine CSF
+22642-3,Tyrosine CSF
+22643-1,Threonine CSF
+22644-9,Serine CSF
+22646-4,Phenylalanine CSF
+22647-2,Ornithine CSF
+22648-0,Methionine CSF
+22649-8,Valine CSF
+22650-6,Glycine CSF
+22651-4,Lysine CSF
+22654-8,Citrulline CSF
+22655-5,Aspart Acid CSF
+22656-3,Arginine CSF
+22657-1,Alanine CSF
+22659-7,Isoleucine CSF
+22672-0,Cystine Lvl
+2276-4,Ferritin Lvl
+2283-0,RBC Folate
+2283-0,RBC Folate Inst
+2284-8,Folate Lvl
+2324-2,GGT
+2333-3,Gastrin Lvl
+2339-0,Glucose WB
+2340-8,Glucose POC
+2342-4,Glucose CSF
+2344-0,Glucose BF
+2345-7,Glucose Lvl
+2350-7,U Glucose
+2356-4,G-6-PD Ql
+23883-2,Inhibin A Maternal
+23904-6,Mono/Macro CSF
+24110-9,TPA
+24113-3,Hep B Core IgM
+24119-0,CMV IgM
+24377-4,PAG: ADP
+24380-8,PAG: Ristocetin
+24467-3,CD4 Abs
+24475-6,PT2 Mutation
+2458-8,IgA Qnt
+2458-8,IgA-RF
+2462-0,IgE Lvl
+2464-6,IgG CSF
+2465-3,IgG Qnt
+2470-3,IgG/Alb CSF Rat
+2472-9,IgM Qnt
+2478-6,Inhibin A Tumor
+2483-6,IGFBP3
+2498-4,Iron
+2500-7,TIBC
+25148-8,UA Ca Ox Crys
+25156-1,UA Eos
+2524-7,Lactic Acid Lvl
+2529-6,LDH BF
+25311-2,U24 Amylase
+25311-2,Ur Amylase
+2532-0,LDH
+2571-8,Trig Lvl
+26052-1,UA Renal Epi
+2609-6,U24 Metanep Tot
+2617-9,Methemoglobin
+2640-1,U Myoglobin
+26586-8,Ambutyr Acd CSF
+26603-1,Asparagine CSF
+26614-8,Taurine CSF
+2667-4,Ur Norepineph
+26680-9,Ur Aspartic Acid
+2668-2,U24 Norepineph
+2670-8,Ur Normetaneph
+2671-6,U24 Normetaneph
+26725-2,Ur Aminoadipic Acid
+26726-0,Ur Proline
+26740-1,Ur Hydroxypro
+26741-9,Ur Serine
+2692-2,Osmolality
+2694-8,U24 Osmolality
+2695-5,U Osmolality
+26961-3,Ur Valine
+26962-1,Ur Cystine
+26963-9,Ur Methionine
+26965-4,Ur Isoleucine
+26966-2,Ur Tyrosine
+26967-0,Ur Phenylalanin
+26975-3,Scl-70 Ab
+26999-3,Ur Homocystine
+2703-7,pO2 Art
+27038-9,EMAR IgA Titr
+27043-9,Ur Glutamine
+27044-7,Ur 1 Methylhistidine
+27046-2,Ur 3 Methylhistidine
+2705-2,pO2 Ven
+27056-1,Ur Citrulline
+2713-6,O2 Sat ECMO
+27292-2,Ur Ornithine
+27296-3,Ur Arginine
+27304-5,Ur Lysine
+27317-7,Ur Asparagine
+2731-8,PTH Lvl Intraop
+2731-8,PTH
+27322-7,Ur Threonine
+27323-5,Ur Leucine
+27325-0,Ur Glycine
+27326-8,Ur Alanine
+2744-1,pH Art
+2746-6,pH Ven
+2748-2,pH BF
+2748-2,pH Gastric
+2777-1,Phosphorus Lvl
+2778-9,U Phosphorus
+27812-7,Antithrombin Ag
+27816-8,vWF Antigen
+27820-0,Protein C Ag
+27821-8,Protein S Free
+27823-4,Protein S Tot
+27904-2,Ur Histidine
+27911-7,Ur alpha Aminobutyric Acid
+27911-7,Ur gamma Aminobutyric Acid
+2821-7,Potassium BF
+2823-3,Potassium Lvl
+2828-2,U Potassium
+2829-0,U24 Potassium
+2839-9,Progest Lvl
+2842-3,Prolactin Lvl
+2857-1,PSA
+2857-1,"PSA, Rfx"
+28593-2,U gamma Aminobutyric Acid
+28598-1,U Aminoadipic Acid
+28606-2,U 1 Methylhistidine
+2862-1,Albumin SPEP
+2865-4,Alpha 1 Glob
+2868-8,Alpha 2 Glob
+2871-2,Beta Glob
+2880-3,Protein CSF
+2881-1,Protein BF
+2885-2,Protein Total
+2915-7,Renin Activity
+2915-7,Renin
+29247-4,Sirolimus Lvl
+2947-0,Sodium WB
+2950-4,Sodium BF
+2951-2,Sodium Lvl
+29512-1,Beta-Hydroxybut
+2955-3,U Sodium
+2956-1,U24 Sodium
+29620-2,Zonisamide Lvl
+2963-7,Growth Horm Lvl
+2964-5,Spec Grav BF
+29660-8,Parvo B19 IgG
+29771-3,FIT Bld
+2986-8,Testosterone Total
+29893-5,"HIV-1,2 Confirm"
+29958-6,RNP IgG Ab
+29964-4,SSA Ab
+29965-1,SSB Ab
+29992-5,Eos-Nasal/Sput
+30051-7,U Homocystine
+3013-0,THG Lvl
+3016-3,TSH
+3024-7,T4 Free
+3026-2,T4
+30323-0,PTT Mix 1 Hour
+30339-6,EBV Capsid IgG
+3034-6,Transferrin Lvl
+30348-7,Ur GlutamicAcid
+30361-0,"HIV-1,2 Conf Interp"
+30368-5,Myelo CSF
+30371-9,Promyelo CSF
+3040-3,Lipase Lvl
+30471-7,Keppra Lvl
+30522-7,hsCRP
+3053-6,T3 Total
+30563-1,Ur Taurine
+3084-1,Uric Acid
+3086-6,U Uric Acid
+30894-0,Aldo/Ren Ratio
+30896-5,ISH Reference Number
+3093-2,Blood Urea BF
+30934-4,BNP Lvl
+3094-0,BUN
+3095-7,U BUN
+31019-3,Oxcarb Met. Lvl
+31208-2,Specimen Source
+31208-2,TEG Specimen
+31208-2,Source BF
+31208-2,BCR/ABL1 (Specimen Type)
+31208-2,ISH Tissue Source
+31208-2,Site
+3128-6,Patient Viscos
+3176-5,Antithromb
+31790-9,Crypto Ag Serum
+3181-5,APA IgG
+3182-3,APA IgM
+3185-6,Factor IX Inhib
+31859-2,Influenza A Ag
+31864-2,Influenza B Ag
+3187-2,Factor IX
+3191-4,Factor V Inhib
+3193-0,Factor V
+31950-9,RSV Antigen
+3196-3,Factor VII Inhib
+31971-5,Strep Grp A Ag
+3198-9,Factor VII
+32024-2,Ur Magnesium
+3205-2,Factor VIII Inhib
+3209-4,Factor VIII
+3216-9,Factor X Inhib
+3218-5,Factor X
+32217-2,vWF Multimer
+3224-3,Factor XI Inhib
+3226-8,Factor XI
+3230-0,Factor XII Inhib
+32309-7,Chol/HDL
+3232-6,Factor XII
+3241-7,Factor XIII Scr
+3243-3,Thrombin Time
+3255-7,Fibrinogen
+32623-1,MPV
+32635-5,Factor II Inhib
+32637-1,CLOTEST
+32693-4,Lactate WB
+3269-8,Heparin Neutralization
+3270-6,LMW Heparin
+3274-8,Unfrac Heparin
+3276-3,HMW Kininogen Scrn
+3282-1,Lupus Anticoag ST-LA
+3289-6,Factor II
+3298-7,Acetaminoph Lvl
+3299-5,U Aceta Scrn
+33057-1,Heinz Body Stn
+33247-8,"Sweat Weight, R"
+33247-8,"Sweat Weight, L"
+33262-7,Meta CSF
+33263-5,Meta BF
+33270-0,BC Micro
+33356-7,PT Mix 1 Hour
+33358-3,Ig(M-Spike)
+33386-4,Segs BF
+3349-8,U Amph Scrn
+3349-8,U Amph Scr
+33516-6,IRF
+3377-9,U Barb Scrn
+3377-9,U Barb Scr
+33863-2,Cystatin C
+33887-1,PT Mix 2 Hour
+33890-5,PTT Mix 2 Hour
+3390-2,U Benzodia Scr
+3390-2,U Benzo Scrn
+33905-1,UA Trichomonas
+33935-8,CCP IgG
+3393-6,U Cocaine Scr
+3393-6,U Cocaine Scrn
+33944-0,Lambda LC Qnt
+3414-0,U Buprenorph Scr
+3414-0,U Bupr Scrn
+3415-7,U ED Bupr Scrn
+3415-7,U ED Bupr Interp
+34165-1,Imm Gran Abs
+3427-2,U Cannab Scrn
+3432-2,Carbamaz Lvl
+34590-0,Adamts 13 Inhib
+34985-2,Large/Other BF
+34985-2,Large/Other CSF
+35001-7,Segmented CSF
+35002-5,Segmented cells
+3520-4,CYO Lvl
+35275-7,Measles IgG Ab
+35644-4,Tot Meta/g Cre
+35668-3,Gent Pk
+35668-3,Gent Tr
+35668-3,Gentamicin Lvl
+35668-3,Gent Rnd
+35669-1,Amikacin Lvl
+35669-1,Amikacin Pk
+35669-1,Amikacin Tr
+35669-1,Amikacin Rnd
+35670-9,Tobra Pk
+35670-9,Tobra Tr
+35670-9,Tobramycin Lvl
+35670-9,Tobra Rnd
+3616-0,Ethosux Lvl
+36916-5,Kappa LC Qnt
+3714-3,Lidocaine Lvl
+3773-9,U Methad Scrn
+38169-9,Ur Free Lam/Day
+38176-4,U Kappa LC
+38177-2,Ur Free Kap/Day
+38178-0,U Lambda LC
+38190-5,U Alpha 2 Glob
+38230-9,Ca Ionized WB
+38256-4,Tot Cells BF
+3834-9,NAPA Lvl
+38459-4,UA Misc crystal
+38518-7,Imm Gran Auto
+3879-4,U Opiate Scrn
+3948-7,Phenobarb Lvl
+3953-7,U PTH Scrn
+3968-5,Phenyt Tol Lvl
+3969-3,Phenyt Free Lvl
+3978-4,Primidone Lvl
+3982-6,Procain Lvl
+40100-0,PTT Mix 0 Hour
+4024-6,Salicylate Lvl
+4025-3,U Sal Scrn
+4026-1,U ED Sal Scrn
+4026-1,U ED Sal Interp
+4049-3,Theoph Lvl
+40585-2,Misc Basic Drug
+40585-2,Misc Acid Drug
+40631-4,NRBC CSF
+40631-4,NRBC Mdf
+40653-8,Myelo BF
+40658-7,Parvo B19 IgM
+40660-3,Promyelo BF
+40661-1,U Ig(M-Spike)
+40667-8,Rubella IgG Ab
+4086-5,Valpr Acid Lvl
+4087-3,Valpr Free Lvl
+41048-0,TPMT*1 - Normal (Qualitative)
+41048-0,TPMT*2 (c.238G>C) rs1800462 (Qualitative
+41048-0,TPMT*3b (c.460G>A) rs1800460 (Qualitativ
+41048-0,TPMT*3c (c.719A>G) rs1142345 (Qualitativ
+41048-0,TPMT*4 (c.626-1G>A) rs1800584 (Qualitati
+41048-0,TPMT*8 (c.644G>A) rs56161402 (Qualitativ
+41172-8,UA Yeast
+41223-9,UA Waxy Cast
+41226-2,Water Viscos
+41282-5,NRBC  BF
+41512-5,VZ IgG Ab IFA
+41647-9,CO2 Totl Art
+41759-2,U K/L Ratio
+42247-7,Hgb Interp
+42254-3,ANA Survey
+42254-3,ANA Pattern
+42719-5,Bili Total WB
+42810-2,RETHE
+43182-5,Smith Ab
+43212-0,Albumin BPEP
+43396-1,Non-HDL
+43397-9,DRVVT 1:1 Mix
+44008-1,HSV IgM
+4485-9,CH50 Lvl
+4485-9,C3 Qnt
+4498-2,C4 Qnt
+4537-7,Sed Rate
+4541-9,Euglob Lysis
+4542-7,Haptoglobin
+4544-3,Hct
+4546-8,Hgb A %
+4548-4,Hgb A1c Lvl
+4548-4,Hgb A1c POC
+4550-0,Hgb A2 Lvl
+4551-8,Hgb A2 %
+4563-3,Hgb C %
+4569-0,Hgb D %
+4575-7,Hgb E %
+4576-5,Hgb F %
+4576-5,Hgb F Lvl
+46128-5,TTG IgA
+46128-5,TTG IgA-RF
+46134-3,UA Gran Cast
+46135-0,UA Hyal Cast
+46137-6,UA TPhos Crys
+46138-4,UA Uric Ac Crys
+4621-9,Sickle Cell Sol
+4625-0,Hgb S %
+4625-0,Hgb S Lvl
+46266-3,Anti-MPO
+46267-1,Anti-PR3
+46420-6,UA WBC clumps
+46421-4,UA Mucous
+46424-8,Hemolysis Index
+46424-8,Inst Hem Index
+46425-5,Lipemic Index
+46425-5,Inst Lip Index
+46426-3,Icteric Index
+46426-3,Inst Ict Index
+4690-4,Relative Viscos
+47369-4,"Calcitonin, FNA"
+48343-8,Hgb (other)
+48378-4,Kap/Lamb Ratio
+48511-0,HIV-1 RNA Viral Load (Quantitative)
+48595-3,vWF Interp
+48683-7,GBS DNA Amp
+48767-8,HPV Hi Risk Com
+49060-7,Fondaparinux
+49103-5,UA WBC Cast
+49275-1,Immunofix Serum
+49276-9,Immunofix Urine
+49483-1,HIV 1 Interp
+49896-4,HPV ISH High Risk
+5048-4,ANA Titer
+5048-4,ANA Titer 1
+5048-4,ANA Titer 2
+50731-9,High Dose Heparin
+50732-7,Therapeutic Heparin
+50754-1,PTT Pool Normal
+5076-5,APA IgA
+5117-7,Cryoglob Qual
+5118-5,Qnt CSF Cr Ag
+5119-3,Qnt Serum Cr Ag
+5130-0,Anti-dsDNA
+51385-3,Plasmacyte CSF
+5160-7,EBV Capsid IgM
+51625-2,Malignant BF
+51625-2,Malignant CSF
+51731-8,O2 Sat Ven
+51733-4,O2 Sat Art
+5174-8,H Pylori IgG
+51790-4,UA RBC Cast
+5195-3,Hep B Surf Ag
+52132-8,BCR/ABL1 P190 (Copies)
+52132-8,BCR/ABL1 P190 (Cell Count)
+52132-8,BCR/ABL1 P190 (Ratio)
+5214-2,Mono Screen
+5247-2,AMA Titer
+5262-1,ANCA
+52768-9,K Time
+52778-8,Max Aplitude
+52778-8,Activator MA
+52789-5,Reaction Time
+5291-0,RPR Titer
+5292-8,RPR Qual
+53612-8,Uric Acid BF
+53622-7,Adamts 13 Act
+5370-2,ASO Qnt
+53848-8,UA Cell Cast
+5388-4,Toxoplasma IgG
+5390-0,Toxoplasma IgM
+53922-1,"THG, FNA"
+53962-7,AFP Tumor
+53984-1,ANA Pattern 1
+53984-1,ANA Pattern 2
+54067-4,C. diff DNA PCR
+55363-6,Argatroban
+5568-1,Acetone Lvl
+5569-9,U Acetone Scrn
+55793-4,Nuc cells BF
+5643-2,Ethanol Lvl
+5643-2,Enz. Ethanol Lvl
+5644-0,U Ethanol Scrn
+5645-7,U ED Ethanol Scrn
+5645-7,U ED Ethanol Interp
+5646-5,Ethylene Glycol
+56537-4,TTG IgG
+56537-4,TTG IgG-RF
+5669-7,Isopropanol Lvl
+5670-5,U ISOH Scrn
+5671-3,"Lead, Blood"
+5671-3,"Lead, Capillary"
+56764-4,Olig IG CSF
+56850-1,VTH Interp
+56888-1,HIV P24 Ag+1/2 Ab
+5693-7,Methanol Lvl
+5694-5,U Methanol Scrn
+57132-3,CYP2C19*1 - Normal (Qualitative)
+57132-3,CYP2C19*2 (c.681G>A) rs4244285 (Qualitat
+57132-3,CYP2C19*3 (c.636G>A) rs4986893 (Qualitat
+57132-3,CYP2C19*4 (c.1A>G) rs28399504 (Qualitati
+57132-3,CYP2C19*6 (c.395G>A) rs72552267 (Qualita
+57132-3,CYP2C19*8 (c.358T>C) rs41291556 (Qualita
+57132-3,CYP2C19*17 (c.-806C>T) rs12248560 (Quali
+5769-5,UA Bacteria
+5770-3,UA Bili
+5778-6,UA Color
+57920-1,CO2 Totl Ven
+5792-7,UA Glucose
+5794-3,UA Blood
+5797-6,UA Ketones
+5799-2,UA Leuk Est
+5802-4,UA Nitrite
+5803-2,UA pH
+5804-0,UA Protein
+5809-9,Clinitest URS
+5811-5,UA Spec Grav
+5818-0,UA Urobilinogen
+5821-4,UA WBC
+5834-7,Adeno SV FA
+58388-0,Normeper Conf
+58413-6,NRBC
+5863-6,Influ A SV FA
+5867-7,Influ B SV FA
+5869-3,Paraflu 1 SV FA
+5871-9,Paraflu 2 SV FA
+5873-5,Paraflu 3 SV FA
+5877-6,RSV SV FA
+5880-0,Rotavirus Ag
+5889-1,Protein S Act
+58906-9,Nuc Cells CSF
+5898-2,Extended PTT
+5898-2,Hepzyme PT
+5898-2,Hepzyme PTT
+5901-4,PT Pool Normal
+5902-2,PT
+5905-5,Monocytes
+5959-2,PT Mix 0 Hour
+5970-9,Plasminogen
+59835-9,"PTH, FNA"
+5992-3,RAG: ADP
+5993-1,Arachidonic Acid
+5995-6,Collagen
+5996-4,Epinephrine
+5998-0,RAG: Ristocetin
+6005-3,Prekallikrein Scrn
+6006-1,Protein C Act
+6010-3,Factor V Leiden
+6014-5,Ristocetin
+60276-3,U ED Oxyco Scrn
+60276-3,U ED Oxyco Interp
+61030-3,Clonazepam/met
+62292-8,"Vitamin D, Total"
+6298-4,Potassium WB
+6301-6,INR WB
+6301-6,INR
+6476-6,Mumps IgG
+65818-7,Amik Dose
+660-1,Darkfield Exam
+66748-5,Angle Alpha
+66751-9,G Parameter
+6683-7,Reptilase Test
+6690-2,WBC
+6690-2,Other Cell Abs
+6694-4,Quinidine Lvl
+6741-3,RBC BF
+6744-7,Lymph BF
+6768-6,Alk Phos
+6777-7,Gluc Tol 50G
+6864-3,Hgb S Sickledex
+6942-7,U Albumin UPEP
+6948-4,Lamotrigine Lvl
+70138-3,U ED Amph Scrn
+70138-3,U ED Amph Interp
+70140-9,U ED Benzo Scrn
+70140-9,U ED Benzo Interp
+70143-3,U ED THC Scrn
+70143-3,U ED THC Interp
+70149-0,U ED Methad Scrn
+70149-0,U ED Methad Interp
+70155-7,U ED Barb Scrn
+70155-7,U ED Barb Interp
+704-7,Basophil Abs
+704-7,Baso Abs Mdf
+706-2,Basophils
+707-0,Basophils Mdf
+709-6,Blasts
+711-2,Eosinophil Abs
+711-2,Eos Abs Mdf
+713-8,Eosinophils
+714-6,Eosinophils Mdf
+71693-6,IPF
+718-7,Hgb
+718-7,Hemoglobin WB
+721-1,VAD Low Hgb
+72493-0,CMV Quant DNA (Qualitative)
+731-0,Lymph Abs
+731-0,Lymph Abs Mdf
+735-1,Atyp Lymphs
+736-9,Lymphs
+737-7,Lymphs Mdf
+740-1,Metamyelocytes
+742-7,Monocyte Abs
+742-7,Mono Abs Mdf
+744-3,Monocytes Mdf
+749-2,Myelocytes
+751-8,Neutrophil Abs
+751-8,Auto Neut Abs
+751-8,Neut Abs Mdf
+75666-8,Rapid HIV
+770-8,Neutrophils
+771-6,NRBC Abs
+771-6,NRBC Abs Mdf
+777-3,Platelet
+777-3,Citrated Plt
+783-1,Promyelocytes
+785-6,MCH
+786-4,MCHC
+787-2,MCV
+788-0,RDW CV
+789-8,RBC
+7917-8,HIV 1 Ab
+792-2,RBC CSF
+80350-2,Shigella/Enteroinvasive E.coli(EIEC) GIP
+80351-0,Enterotoxigenic E.coli(ETEC) LT/ST GIP(R
+804-5,WBC count
+8077-0,AMA Screen
+8098-6,TGA Lvl
+8099-4,Anti-TPO Ab Lvl
+8123-2,CD4
+82160-3,Adenovirus RPP (Result)
+82161-1,Coronavirus HKU1 RPP (Result)
+82162-9,Coronavirus NL63 RPP (Result)
+82163-7,Coronavirus 229E RPP (Result)
+82164-5,Coronavirus OC43 RPP (Result)
+82165-2,Human metapneumovirus RPP (Result)
+82166-0,Influenza A RPP (Result)
+82167-8,Influenza A H1 RPP (Result)
+82168-6,Influenza A H1-2009 RPP (Result)
+82169-4,Influenza A H3 RPP (Result)
+82170-2,Influenza B RPP (Result)
+82171-0,Parainfluenza Virus 1 RPP (Result)
+82172-8,Parainfluenza Virus 2 RPP (Result)
+82173-6,Parainfluenza Virus 3 RPP (Result)
+82174-4,Parainfluenza Virus 4 RPP (Result)
+82175-1,Rhinovirus/Enterovirus RPP (Result)
+82176-9,Respiratory Syncytial Virus RPP (Result)
+82177-7,Mycoplasma pneumoniae RPP (Result)
+82178-5,Chlamydia (Chlamydophila) pneumoniae RPP
+82179-3,Bordetella pertussis (ptxP) RPP (Result)
+82181-9,Cryptococcus neoformans/gattii MEP (Resu
+82182-7,Escherichia coli K1 MEP (Result)
+82183-5,Haemophilus influenzae MEP (Result)
+82184-3,Listeria monocytogenes MEP (Result)
+82185-0,Neisseria meningitidis MEP (Result)
+82186-8,Streptococcus agalactiae MEP (Result)
+82187-6,Streptococcus pneumoniae MEP (Result)
+82188-4,Varicella zoster virus MEP (Result)
+82189-2,Cytomegalovirus MEP (Result)
+82190-0,Herpes simplex virus 1 MEP (Result)
+82191-8,Herpes simplex virus 2 MEP (Result)
+82192-6,Human herpesvirus 6 MEP (Result)
+82193-4,Human parechovirus MEP (Result)
+82194-2,Enterovirus MEP (Result)
+82196-7,Campylobacter GIP (Result)
+82199-1,Salmonella GIP (Result)
+82200-7,Vibrio GIP (Result)
+82201-5,Vibrio cholera GIP (Result)
+82202-3,Yersinia enterocolitica GIP (Result)
+82203-1,Shiga-like toxin producing E.coli GIP
+82204-9,E.coli O157 GIP (Result)
+82205-6,Cryptosporidium GIP (Result)
+82206-4,Cyclospora cayetanensis GIP (Result)
+82207-2,Entamoeba histolytica GIP (Result)
+82208-0,Giardia lamblia GIP (Result)
+82209-8,Adenovirus 40/41 GIP (Result)
+82210-6,Astrovirus GIP (Result)
+82211-4,Norovirus GI/GII GIP (Result)
+82212-2,Rotavirus A GIP (Result)
+82213-0,Sapovirus GIP (Result)
+8246-1,UA Amorph Urate
+8251-1,BCR/ABL1 (Chartable Comments)
+83107-3,ProBNP
+9306-2,Neutrophils Mdf
+9335-1,Appear BF
+9412-8,Leucine CSF
+9423-5,ANA Screen
+9453-2,Histidine CSF
+9641-2,Tot Cats/g Cre
+9734-5,U Alpha 1 Glob
+9744-4,U Beta Glob
+9745-1,U Gamma Glob
+9817-8,Crypto Ag CSF

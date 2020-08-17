@@ -1,0 +1,55 @@
+#surveytitle { font-weight: bold; font-size: 24px; }
+.requiredlabel { font-size:13px; }
+.sliderlabels td {font-size:14px !important}
+.header, .header a { font-size: 17px; }
+.headermatrix td, .headermatrix td a { padding-right: 5px;font-size:13px}
+.labelmatrix, .labelmatrix a:link, .labelmatrix a:visited, .labelmatrix a:active, .labelmatrix a:hover {font-size:15px}
+.labelrc, .labelrc a:link, .labelrc a:visited, .labelrc a:active, .labelrc a:hover { font-size: 17px; }
+ .rich-text-field-label > p,  .rich-text-field-label > p a:link,  .rich-text-field-label > p a:visited, 
+	 .rich-text-field-label > p a:active,  .rich-text-field-label > p a:hover { font-size: 17px; }
+.fileuploadlink  { font-size: 16px !important; }
+.smalllink  { font-size: 15px !important; }
+.surveysubmit button{ font-size: 16px !important; padding: 6px !important; font-weight: bold !important;}
+#questiontable button{ font-size: 13px;}
+#changeFont { font-size: 13px }
+#changeFont .far { font-size: 15px }
+#surveyinstructions, #surveyinstructions p, #surveyinstructions span, #surveyinstructions div, #surveyinstructions a,
+	#surveyacknowledgment, #surveyacknowledgment p, #surveyacknowledgment span, #surveyacknowledgment div, #surveyacknowledgment a { line-height:20px !important; font-size: 17px !important; }
+#surveyinstructions p, #surveyinstructions div, #surveyacknowledgment p, #surveyacknowledgment div { padding: 6px 0 !important;}
+.choicevert, .choicehoriz, .choicevert a, .choicehoriz a {font-size: 17px;}
+.choicematrix, .choicematrix a { padding: 8px 0 4px !important;   }
+.choicevert, .choicehoriz { margin-right: 10px; }
+.choicevert { text-indent: -1.6em; }
+#return_corner a, #survey_queue_corner a {font-size: 14px;}
+select { font-size: 15px !important; height: 28px !important; padding: 0 !important; }
+form#form input[type="text"], input[type="text"] { font-size: 15px !important; height: 28px !important;  }
+textarea { font-size: 15px !important;  }
+input[type="checkbox"], input[type="radio"] {
+    margin: 8px 8px 8px 0px;
+    transform: scale(1.5, 1.5);
+    -moz-transform: scale(1.5, 1.5);
+    -ms-transform: scale(1.5, 1.5);
+    -webkit-transform: scale(1.5, 1.5);
+    -o-transform: scale(1.5, 1.5);
+}
+#footer, #footer a { font-size: 15px !important; }
+button.rc-autocomplete { height: 28px; }
+.matrix_first_col_hdr { font-size: 13px !important; }
+#__LOCKRECORD__-tr td { font-size:14px; }
+button[name="submit-btn-saverecord"], button[name="submit-btn-saveprevpage"] { max-width: 200px !important; }
+form#form input[type="text"].date, form#form input[type="text"].date_mdy, form#form input[type="text"].date_ymd, form#form input[type="text"].date_dmy {
+	max-width:93px;
+}
+form#form input[type="text"].datetime, form#form input[type="text"].datetime_mdy, form#form input[type="text"].datetime_ymd, form#form input[type="text"].datetime_dmy {
+	max-width:135px;
+}
+form#form input[type="text"].datetime_seconds, form#form input[type="text"].datetime_seconds_mdy, form#form input[type="text"].datetime_seconds_ymd, form#form input[type="text"].datetime_seconds_dmy {
+	max-width:155px;
+}
+.resetLinkParent { padding: 0 6px 2px 0; }
+.ui-slider-handle { font-size: 16px; }
+div.enhancedchoice label { font-size: 16px; }
+div.enhancedchoice label span.ec {
+	padding: 9px;
+}
+.note { font-size: 13px; }

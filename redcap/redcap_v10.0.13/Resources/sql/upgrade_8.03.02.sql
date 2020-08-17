@@ -1,0 +1,1 @@
+ALTER TABLE `redcap_surveys_emails` ADD `append_survey_link` TINYINT(1) NOT NULL DEFAULT '1' AFTER `delivery_type`;

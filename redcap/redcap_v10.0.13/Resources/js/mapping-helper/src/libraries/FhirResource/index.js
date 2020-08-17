@@ -1,0 +1,8 @@
+export {default as AllergyIntolerance} from './AllergyIntolerance'
+export {default as Bundle} from './Bundle'
+export {default as Coding} from './Coding'
+export {default as Condition} from './Condition'
+export {default as MedicationOrder} from './MedicationOrder'
+export {default as Observation} from './Observation'
+export {default as Patient} from './Patient'
+export {default as Resource} from './Resource'

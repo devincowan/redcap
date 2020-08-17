@@ -1,0 +1,540 @@
+{
+    "resourceType": "Bundle",
+    "type": "searchset",
+    "total": 12,
+    "link": [
+      {
+        "relation": "self",
+        "url": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Observation?category=laboratory&patient=Tv.Jj1JT84zpy2y4AQdvAoag-OgdtdZ9rY5FFR8xpO7MB"
+      }
+    ],
+    "entry": [
+      {
+        "link": [
+          {
+            "relation": "self",
+            "url": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Observation/Ted2DsTgZxy3LTVeNlmChvW32se8zwExSqVWDFqcbz4wB"
+          }
+        ],
+        "fullUrl": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Observation/Ted2DsTgZxy3LTVeNlmChvW32se8zwExSqVWDFqcbz4wB",
+        "resource": {
+          "resourceType": "Observation",
+          "id": "Ted2DsTgZxy3LTVeNlmChvW32se8zwExSqVWDFqcbz4wB",
+          "status": "final",
+          "category": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/observation-category",
+                "code": "laboratory",
+                "display": "Laboratory"
+              }
+            ],
+            "text": "Laboratory"
+          },
+          "code": {
+            "coding": [
+              {
+                "system": "http://loinc.org",
+                "code": "2148-5",
+                "display": "Creatine [Mass/volume] in Serum or Plasma"
+              }
+            ],
+            "text": "CREATININE LEVEL"
+          },
+          "subject": {
+            "display": "Dave Test",
+            "reference": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Patient/Tv.Jj1JT84zpy2y4AQdvAoag-OgdtdZ9rY5FFR8xpO7MB"
+          },
+          "effectiveDateTime": "2016-07-19T04:21:00Z",
+          "valueQuantity": {
+            "value": 0.8
+          }
+        },
+        "search": {
+          "mode": "match"
+        }
+      },
+      {
+        "link": [
+          {
+            "relation": "self",
+            "url": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Observation/Ted2DsTgZxy3LTVeNlmChvQLb3AUK5cgW-dTJ4YRs2kYB"
+          }
+        ],
+        "fullUrl": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Observation/Ted2DsTgZxy3LTVeNlmChvQLb3AUK5cgW-dTJ4YRs2kYB",
+        "resource": {
+          "resourceType": "Observation",
+          "id": "Ted2DsTgZxy3LTVeNlmChvQLb3AUK5cgW-dTJ4YRs2kYB",
+          "status": "final",
+          "category": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/observation-category",
+                "code": "laboratory",
+                "display": "Laboratory"
+              }
+            ],
+            "text": "Laboratory"
+          },
+          "code": {
+            "text": "BUN / CREAT RATIO"
+          },
+          "subject": {
+            "display": "Dave Test",
+            "reference": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Patient/Tv.Jj1JT84zpy2y4AQdvAoag-OgdtdZ9rY5FFR8xpO7MB"
+          },
+          "effectiveDateTime": "2016-07-19T04:21:00Z",
+          "valueQuantity": {
+            "value": 10
+          }
+        },
+        "search": {
+          "mode": "match"
+        }
+      },
+      {
+        "link": [
+          {
+            "relation": "self",
+            "url": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Observation/Ted2DsTgZxy3LTVeNlmChvY-B3kKVmwr7BAO.AOxyENUB"
+          }
+        ],
+        "fullUrl": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Observation/Ted2DsTgZxy3LTVeNlmChvY-B3kKVmwr7BAO.AOxyENUB",
+        "resource": {
+          "resourceType": "Observation",
+          "id": "Ted2DsTgZxy3LTVeNlmChvY-B3kKVmwr7BAO.AOxyENUB",
+          "status": "final",
+          "category": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/observation-category",
+                "code": "laboratory",
+                "display": "Laboratory"
+              }
+            ],
+            "text": "Laboratory"
+          },
+          "code": {
+            "text": "GLUCOSE"
+          },
+          "subject": {
+            "display": "Dave Test",
+            "reference": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Patient/Tv.Jj1JT84zpy2y4AQdvAoag-OgdtdZ9rY5FFR8xpO7MB"
+          },
+          "effectiveDateTime": "2016-07-19T04:21:00Z",
+          "valueQuantity": {
+            "value": 90,
+            "unit": "mg/dL",
+            "system": "http://unitsofmeasure.org",
+            "code": "mg/dL"
+          }
+        },
+        "search": {
+          "mode": "match"
+        }
+      },
+      {
+        "link": [
+          {
+            "relation": "self",
+            "url": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Observation/Tzq03rkFZKmpTbxqKy4bd4l36GvZuvuCaOb6yIsI6AVUB"
+          }
+        ],
+        "fullUrl": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Observation/Tzq03rkFZKmpTbxqKy4bd4l36GvZuvuCaOb6yIsI6AVUB",
+        "resource": {
+          "resourceType": "Observation",
+          "id": "Tzq03rkFZKmpTbxqKy4bd4l36GvZuvuCaOb6yIsI6AVUB",
+          "status": "final",
+          "category": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/observation-category",
+                "code": "laboratory",
+                "display": "Laboratory"
+              }
+            ],
+            "text": "Laboratory"
+          },
+          "code": {
+            "text": "GLUCOSE BLOOD, POC"
+          },
+          "subject": {
+            "display": "Dave Test",
+            "reference": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Patient/Tv.Jj1JT84zpy2y4AQdvAoag-OgdtdZ9rY5FFR8xpO7MB"
+          },
+          "effectiveDateTime": "2016-10-13T19:50:00Z",
+          "valueQuantity": {
+            "value": 120
+          }
+        },
+        "search": {
+          "mode": "match"
+        }
+      },
+      {
+        "link": [
+          {
+            "relation": "self",
+            "url": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Observation/TuaA-U-d-2jyKOfMa6yzBSFOuGSjH4bNftbuw.DMLym8B"
+          }
+        ],
+        "fullUrl": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Observation/TuaA-U-d-2jyKOfMa6yzBSFOuGSjH4bNftbuw.DMLym8B",
+        "resource": {
+          "resourceType": "Observation",
+          "id": "TuaA-U-d-2jyKOfMa6yzBSFOuGSjH4bNftbuw.DMLym8B",
+          "status": "final",
+          "category": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/observation-category",
+                "code": "laboratory",
+                "display": "Laboratory"
+              }
+            ],
+            "text": "Laboratory"
+          },
+          "code": {
+            "text": "GLUCOSE BLOOD, POC"
+          },
+          "subject": {
+            "display": "Dave Test",
+            "reference": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Patient/Tv.Jj1JT84zpy2y4AQdvAoag-OgdtdZ9rY5FFR8xpO7MB"
+          },
+          "effectiveDateTime": "2016-10-13T19:50:00Z",
+          "valueQuantity": {
+            "value": 110
+          }
+        },
+        "search": {
+          "mode": "match"
+        }
+      },
+      {
+        "link": [
+          {
+            "relation": "self",
+            "url": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Observation/TDgumIzhquep0RngJzVEoh2ZJc8e9Uef6hmuREJs.05sB"
+          }
+        ],
+        "fullUrl": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Observation/TDgumIzhquep0RngJzVEoh2ZJc8e9Uef6hmuREJs.05sB",
+        "resource": {
+          "resourceType": "Observation",
+          "id": "TDgumIzhquep0RngJzVEoh2ZJc8e9Uef6hmuREJs.05sB",
+          "status": "final",
+          "category": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/observation-category",
+                "code": "laboratory",
+                "display": "Laboratory"
+              }
+            ],
+            "text": "Laboratory"
+          },
+          "code": {
+            "text": "GLUCOSE BLOOD, POC"
+          },
+          "subject": {
+            "display": "Dave Test",
+            "reference": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Patient/Tv.Jj1JT84zpy2y4AQdvAoag-OgdtdZ9rY5FFR8xpO7MB"
+          },
+          "effectiveDateTime": "2016-10-13T19:49:00Z",
+          "valueQuantity": {
+            "value": 100
+          }
+        },
+        "search": {
+          "mode": "match"
+        }
+      },
+      {
+        "link": [
+          {
+            "relation": "self",
+            "url": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Observation/Ted2DsTgZxy3LTVeNlmChvZrBtOTPD2OlLdxeGOqKum8B"
+          }
+        ],
+        "fullUrl": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Observation/Ted2DsTgZxy3LTVeNlmChvZrBtOTPD2OlLdxeGOqKum8B",
+        "resource": {
+          "resourceType": "Observation",
+          "id": "Ted2DsTgZxy3LTVeNlmChvZrBtOTPD2OlLdxeGOqKum8B",
+          "status": "final",
+          "category": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/observation-category",
+                "code": "laboratory",
+                "display": "Laboratory"
+              }
+            ],
+            "text": "Laboratory"
+          },
+          "code": {
+            "coding": [
+              {
+                "system": "http://loinc.org",
+                "code": "3094-0",
+                "display": "Urea nitrogen [Mass/volume] in Serum or Plasma"
+              }
+            ],
+            "text": "BLOOD UREA NITROGEN"
+          },
+          "subject": {
+            "display": "Dave Test",
+            "reference": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Patient/Tv.Jj1JT84zpy2y4AQdvAoag-OgdtdZ9rY5FFR8xpO7MB"
+          },
+          "effectiveDateTime": "2016-07-19T04:21:00Z",
+          "valueQuantity": {
+            "value": 8,
+            "unit": "mg/dL",
+            "system": "http://unitsofmeasure.org",
+            "code": "mg/dL"
+          },
+          "referenceRange": [
+            {
+              "low": {
+                "value": 4,
+                "unit": "mg/dL",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg/dL"
+              },
+              "high": {
+                "value": 21,
+                "unit": "mg/dL",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg/dL"
+              },
+              "text": "4 - 21 mg/dL"
+            }
+          ]
+        },
+        "search": {
+          "mode": "match"
+        }
+      },
+      {
+        "link": [
+          {
+            "relation": "self",
+            "url": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Observation/Ted2DsTgZxy3LTVeNlmChvRrLTDSDDhAeFDtgUwV-iCwB"
+          }
+        ],
+        "fullUrl": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Observation/Ted2DsTgZxy3LTVeNlmChvRrLTDSDDhAeFDtgUwV-iCwB",
+        "resource": {
+          "resourceType": "Observation",
+          "id": "Ted2DsTgZxy3LTVeNlmChvRrLTDSDDhAeFDtgUwV-iCwB",
+          "status": "final",
+          "category": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/observation-category",
+                "code": "laboratory",
+                "display": "Laboratory"
+              }
+            ],
+            "text": "Laboratory"
+          },
+          "code": {
+            "coding": [
+              {
+                "system": "http://loinc.org",
+                "code": "2028-9",
+                "display": "Carbon dioxide, total [Moles/volume] in Serum or Plasma"
+              }
+            ],
+            "text": "CARBON DIOXIDE, TOTAL [MMOL/L] IN SER/PLAS"
+          },
+          "subject": {
+            "display": "Dave Test",
+            "reference": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Patient/Tv.Jj1JT84zpy2y4AQdvAoag-OgdtdZ9rY5FFR8xpO7MB"
+          },
+          "effectiveDateTime": "2016-07-19T04:21:00Z",
+          "valueQuantity": {
+            "value": 21,
+            "unit": "mmol/L",
+            "system": "http://unitsofmeasure.org",
+            "code": "mmol/L"
+          },
+          "referenceRange": [
+            {
+              "low": {
+                "value": 13,
+                "unit": "mmol/L",
+                "system": "http://unitsofmeasure.org",
+                "code": "mmol/L"
+              },
+              "high": {
+                "value": 22,
+                "unit": "mmol/L",
+                "system": "http://unitsofmeasure.org",
+                "code": "mmol/L"
+              },
+              "text": "13 - 22 mmol/L"
+            }
+          ]
+        },
+        "search": {
+          "mode": "match"
+        }
+      },
+      {
+        "link": [
+          {
+            "relation": "self",
+            "url": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Observation/Ted2DsTgZxy3LTVeNlmChvcbHoBjxjpf5T3Y1GXORi.cB"
+          }
+        ],
+        "fullUrl": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Observation/Ted2DsTgZxy3LTVeNlmChvcbHoBjxjpf5T3Y1GXORi.cB",
+        "resource": {
+          "resourceType": "Observation",
+          "id": "Ted2DsTgZxy3LTVeNlmChvcbHoBjxjpf5T3Y1GXORi.cB",
+          "status": "final",
+          "category": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/observation-category",
+                "code": "laboratory",
+                "display": "Laboratory"
+              }
+            ],
+            "text": "Laboratory"
+          },
+          "code": {
+            "text": "SODIUM LEVEL"
+          },
+          "subject": {
+            "display": "Dave Test",
+            "reference": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Patient/Tv.Jj1JT84zpy2y4AQdvAoag-OgdtdZ9rY5FFR8xpO7MB"
+          },
+          "effectiveDateTime": "2016-07-19T04:21:00Z",
+          "valueQuantity": {
+            "value": 137
+          }
+        },
+        "search": {
+          "mode": "match"
+        }
+      },
+      {
+        "link": [
+          {
+            "relation": "self",
+            "url": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Observation/Ted2DsTgZxy3LTVeNlmChvbrh9w9x2saWf0mw55RXmzwB"
+          }
+        ],
+        "fullUrl": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Observation/Ted2DsTgZxy3LTVeNlmChvbrh9w9x2saWf0mw55RXmzwB",
+        "resource": {
+          "resourceType": "Observation",
+          "id": "Ted2DsTgZxy3LTVeNlmChvbrh9w9x2saWf0mw55RXmzwB",
+          "status": "final",
+          "category": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/observation-category",
+                "code": "laboratory",
+                "display": "Laboratory"
+              }
+            ],
+            "text": "Laboratory"
+          },
+          "code": {
+            "text": ".OTASSIUM BLOOD"
+          },
+          "subject": {
+            "display": "Dave Test",
+            "reference": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Patient/Tv.Jj1JT84zpy2y4AQdvAoag-OgdtdZ9rY5FFR8xpO7MB"
+          },
+          "effectiveDateTime": "2016-07-19T04:21:00Z",
+          "valueQuantity": {
+            "value": 4.3
+          }
+        },
+        "search": {
+          "mode": "match"
+        }
+      },
+      {
+        "link": [
+          {
+            "relation": "self",
+            "url": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Observation/Ted2DsTgZxy3LTVeNlmChvacQbsrdwFbCdCeH7hKRSoYB"
+          }
+        ],
+        "fullUrl": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Observation/Ted2DsTgZxy3LTVeNlmChvacQbsrdwFbCdCeH7hKRSoYB",
+        "resource": {
+          "resourceType": "Observation",
+          "id": "Ted2DsTgZxy3LTVeNlmChvacQbsrdwFbCdCeH7hKRSoYB",
+          "status": "final",
+          "category": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/observation-category",
+                "code": "laboratory",
+                "display": "Laboratory"
+              }
+            ],
+            "text": "Laboratory"
+          },
+          "code": {
+            "text": "CHLORIDE BLOOD ARTERIAL"
+          },
+          "subject": {
+            "display": "Dave Test",
+            "reference": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Patient/Tv.Jj1JT84zpy2y4AQdvAoag-OgdtdZ9rY5FFR8xpO7MB"
+          },
+          "effectiveDateTime": "2016-07-19T04:21:00Z",
+          "valueQuantity": {
+            "value": 100
+          }
+        },
+        "search": {
+          "mode": "match"
+        }
+      },
+      {
+        "link": [
+          {
+            "relation": "self",
+            "url": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Observation/Ted2DsTgZxy3LTVeNlmChvbJ5IfcxE-hnRyAK-Ok.gC0B"
+          }
+        ],
+        "fullUrl": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Observation/Ted2DsTgZxy3LTVeNlmChvbJ5IfcxE-hnRyAK-Ok.gC0B",
+        "resource": {
+          "resourceType": "Observation",
+          "id": "Ted2DsTgZxy3LTVeNlmChvbJ5IfcxE-hnRyAK-Ok.gC0B",
+          "status": "final",
+          "category": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/observation-category",
+                "code": "laboratory",
+                "display": "Laboratory"
+              }
+            ],
+            "text": "Laboratory"
+          },
+          "code": {
+            "coding": [
+              {
+                "system": "http://loinc.org",
+                "code": "1994-3",
+                "display": "Calcium.ionized [Moles/volume] in Blood"
+              }
+            ],
+            "text": "CALCIUM IONIZED [MMOL/L] IN BLOOD"
+          },
+          "subject": {
+            "display": "Dave Test",
+            "reference": "https://ic1-dev.service.vumc.org/Interconnect-DEV-FHIR/api/FHIR/DSTU2/Patient/Tv.Jj1JT84zpy2y4AQdvAoag-OgdtdZ9rY5FFR8xpO7MB"
+          },
+          "effectiveDateTime": "2016-07-19T04:21:00Z",
+          "valueQuantity": {
+            "value": 9.1
+          }
+        },
+        "search": {
+          "mode": "match"
+        }
+      }
+    ]
+  }

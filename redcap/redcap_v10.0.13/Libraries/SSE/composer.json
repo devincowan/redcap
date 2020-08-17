@@ -1,0 +1,17 @@
+{
+    "name": "redcap/sse",
+    "description": "Server Sent Events library",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Delacqua, Francesco",
+            "email": "francesco.delacqua@vumc.org"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "REDCap\\SSE\\": "src"
+        }
+    }
+}

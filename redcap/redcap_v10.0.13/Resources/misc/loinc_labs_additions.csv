@@ -1,0 +1,1009 @@
+LOINC_CODE,DTA_DESC
+43638-6,NMO-IgG - Aquaporin 4 receptor IgG Ab [Presence] in Serum or Plasma
+84873-9,MOG-IgG - Myelin oligodendrocyte glycoprotein IgG Ab [Titer] in Serum or Plasma by Immunofluorescence
+82981-2,NMDA-IgG - N-methyl-D-aspartate receptor Ab.IgG
+82978-8,LGI1_IgG - Leucine-rich glioma-inactivated protein 1 IgG Ab [Presence] in Serum or Plasma by Immunofluorescence
+82979-6,CASPR2-IgG - Contactin-associated protein 2 Ab.IgG
+84931-5,GABA-B-R Ab - Gamma aminobutyrate B receptor Ab
+84929-9,AMPA_R Ab - Alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionate receptor 1 Ab
+806-0,WBC mm3 in CSF - Leukocytes [#/volume] in Cerebral spinal fluid by Manual count
+26940-7,Myelin Basic Protein in CSF - Myelin basic protein [Units/volume] in Cerebral spinal fluid
+82988-7,NMDA-IgG in CSF - N-methyl-D-aspartate receptor Ab.IgGE
+80220-7,NMDA-IgG Titer in CSF - N-methyl-D-aspartate receptor Ab.IgGE
+20509-6,Hemoglobin [Mass/volume] in Blood by calculation
+62236-5,Pyridoxal phosphate [Moles/volume] in Serum or Plasma
+50231-0,Hyaline casts [Presence] in Urine by Automated
+53115-2,Immature granulocytes [#/volume] in Blood by Automated count
+53318-2,Epithelial cells.squamous [Presence] in Urine by Automated
+71695-1,Immature granulocytes/100 leukocytes in Blood by Automated count
+10374-7,Helmet cells [Presence] in Blood by Light microscopy
+10378-8,Polychromasia [Presence] in Blood by Light microscopy
+10381-2,Target cells [Presence] in Blood by Light microscopy
+11274-8,Elliptocytes [Presence] in Blood by Light microscopy
+42595-9,Hepatitis B virus DNA [Units/volume] (viral load) in Serum or Plasma by NAA with probe detection
+50221-1,Bacteria [Presence] in Urine by Automated
+53292-9,Erythrocytes [Presence] in Urine by Automated
+53316-6,Leukocytes [Presence] in Urine by Automated
+57734-6,Ketones [Presence] in Urine by Automated test strip
+702-1,Anisocytosis [Presence] in Blood by Light microscopy
+728-6,Hypochromia [Presence] in Blood by Light microscopy
+738-5,Macrocytes [Presence] in Blood by Light microscopy
+741-9,Microcytes [Presence] in Blood by Light microscopy
+779-9,Poikilocytosis [Presence] in Blood by Light microscopy
+7790-9,Burr cells [Presence] in Blood by Light microscopy
+32710-6,Nitrite [Presence] in Urine
+47528-5,Cytology report of Cervical or vaginal smear or scraping Cyto stain
+50555-2,Glucose [Presence] in Urine by Automated test strip
+50563-6,Urobilinogen [Mass/volume] in Urine by Automated test strip
+51487-7,Leukocytes [#/volume] in Urine by Automated count
+53321-6,Mucus [Presence] in Urine by Automated
+57735-3,Protein [Presence] in Urine by Automated test strip
+5810-7,Specific gravity of Urine by Refractometry
+883-9,ABO group [Type] in Blood
+11580-8,Thyrotropin [Units/volume] in Serum or Plasma by Detection limit <= 0.005 mIU/L
+10330-9,Monocytes/100 leukocytes in Body fluid by Manual count
+11031-2,Lymphocytes/100 leukocytes in Body fluid
+11125-2,Platelet morphology finding [Identifier] in Blood
+11134-4,Appearance of Spun Body fluid
+11156-7,Leukocyte morphology finding [Identifier] in Blood
+11282-1,Cells Counted Total [#] in Blood
+12454-5,Urate crystals amorphous [Presence] in Urine sediment by Light microscopy
+23860-0,Erythrocytes [#/volume] in Body fluid by Automated count
+34714-6,INR in Blood by Coagulation assay
+53319-0,Crystals [Presence] in Urine by Automated
+71690-2,Nucleated cells [#/volume] in Body fluid by Automated count
+72223-1,Yeast [Presence] in Urine by Automated
+739-3,Metamyelocytes [#/volume] in Blood by Manual count
+748-4,Myelocytes [#/volume] in Blood by Manual count
+768-2,Segmented neutrophils [#/volume] in Blood by Manual count
+769-0,Segmented neutrophils/100 leukocytes in Blood by Manual count
+7791-7,Dacrocytes [Presence] in Blood by Light microscopy
+7793-3,Howell-Jolly bodies [Presence] in Blood by Light microscopy
+802-9,Spherocytes [Presence] in Blood by Light microscopy
+82477-1,Erythrocyte sedimentation rate by Photometric method
+83108-1,Natriuretic peptide.B prohormone N-Terminal [Moles/volume] in Serum or Plasma by Immunoassay
+94547-7,SARS coronavirus 2 IgG+IgM Ab [Presence] in Serum or Plasma by Immunoassay
+94531-1,SARS coronavirus 2 RNA panel - Respiratory specimen by NAA with probe detection
+94532-9,SARS coronavirus+SARS-like coronavirus+SARS coronavirus 2+MERS coronavirus RNA [Presence] in Respiratory specimen by NAA with probe detection
+94533-7,SARS coronavirus 2 N gene [Presence] in Respiratory specimen by NAA with probe detection
+94534-5,SARS coronavirus 2 RdRp gene [Presence] in Respiratory specimen by NAA with probe detection
+94499-1,Respiratory viral pathogens DNA and RNA panel - Respiratory specimen Qualitative by NAA with probe detection
+94500-6,SARS coronavirus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection
+94501-4,Middle East respiratory syndrome coronavirus (MERS-CoV) RNA [Presence] in Respiratory specimen by NAA with probe detection
+94502-2,SARS coronavirus+SARS-like coronavirus+SARS coronavirus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection
+94503-0,SARS coronavirus 2 IgG and IgM panel - Serum or Plasma Qualitative by Immunoassay
+94505-5,SARS coronavirus 2 IgG Ab [Units/volume] in Serum or Plasma by Immunoassay
+94506-3,SARS coronavirus 2 IgM Ab [Units/volume] in Serum or Plasma by Immunoassay
+94504-8,SARS coronavirus 2 IgG and IgM panel - Serum or Plasma by Immunoassay
+94507-1,SARS coronavirus 2 IgG Ab [Presence] in Serum or Plasma by Immunoassay
+94509-7,SARS coronavirus 2 E gene [Cycle Threshold #] in Unspecified specimen by NAA with probe detection
+94508-9,SARS coronavirus 2 IgM Ab [Presence] in Serum or Plasma by Immunoassay
+94510-5,SARS coronavirus 2 N gene [Cycle Threshold #] in Unspecified specimen by NAA with probe detection
+94511-3,SARS coronavirus 2 ORF1ab region [Cycle Threshold #] in Unspecified specimen by NAA with probe detection
+94306-8,SARS coronavirus 2 RNA panel - Unspecified specimen by NAA with probe detection
+94307-6,SARS coronavirus 2 N gene [Presence] in Unspecified specimen by Nucleic acid amplification using primer-probe set N1
+94308-4,SARS coronavirus 2 N gene [Presence] in Unspecified specimen by Nucleic acid amplification using primer-probe set N2
+94309-2,SARS coronavirus 2 RNA [Presence] in Unspecified specimen by NAA with probe detection
+94310-0,SARS-like coronavirus N gene [Presence] in Unspecified specimen by NAA with probe detection
+94311-8,SARS coronavirus 2 N gene [Cycle Threshold #] in Unspecified specimen by Nucleic acid amplification using primer-probe set N1
+94312-6,SARS coronavirus 2 N gene [Cycle Threshold #] in Unspecified specimen by Nucleic acid amplification using primer-probe set N2
+94313-4,SARS-like coronavirus N gene [Cycle Threshold #] in Unspecified specimen by NAA with probe detection
+94314-2,SARS coronavirus 2 RdRp gene [Presence] in Unspecified specimen by NAA with probe detection
+94315-9,SARS coronavirus 2 E gene [Presence] in Unspecified specimen by NAA with probe detection
+94316-7,SARS coronavirus 2 N gene [Presence] in Unspecified specimen by NAA with probe detection
+94542-8,Leprosy [Type]
+94543-6,Microscopic observation [Identifier] in Skin by Acid fast stain
+94545-1,Household contacts [#]
+94544-4,Exposure source in 30 days prior to onset of illness
+94546-9,Relationship to individual with confirmed or suspected illness
+94535-2,Skin tone
+94536-0,Color of Hair
+94537-8,Hemoglobin panel - Blood by HPLC
+94538-6,Hemoglobin HPLC and electrophoresis panel - Blood
+94539-4,Hepatitis A virus IgM and total panel - Serum or Plasma Qualitative
+94540-2,Mycobacterial stain and culture panel - Unspecified specimen
+94541-0,Mycobacterial identification panel - Unspecified specimen by Molecular genetics method
+94498-3,PhenX - Cystatin C assay for kidney function protocol 250701
+94487-6,Galactosylceramidase [Enzymatic activity/mass] in Leukocytes by Confirmatory method
+94488-4,Acid alpha glucosidase [Enzymatic activity/mass] in Leukocytes by Confirmatory method
+94489-2,Lysosomal storage disorders panel - Leukocytes
+94490-0,Protoporphyrin fractions panel - Red Blood Cells
+94491-8,Protoporphyrin Free [Mass/volume] in Red Blood Cells
+94492-6,HLA-DQA1 and HLA-DQB1 typing panel - Blood or Tissue by Molecular genetics method
+94493-4,Celiac disease IgA and HLA typing and serology panel - Blood or Tissue
+94495-9,HLA-DQA1 [Type]
+94494-2,Celiac disease serology panel - Serum
+94496-7,Cell suspension [Volume] of Specimen
+94497-5,Packed erythrocytes [Volume] of Specimen
+94478-5,Bordetella pertussis.pertussis toxin promoter region [Presence] in Lower respiratory specimen by NAA with non-probe detection
+94480-1,Human coronavirus HKU1 RNA [Presence] in Lower respiratory specimen by NAA with non-probe detection
+94479-3,Human coronavirus 229E RNA [Presence] in Lower respiratory specimen by NAA with non-probe detection
+94481-9,Human coronavirus NL63 RNA [Presence] in Lower respiratory specimen by NAA with non-probe detection
+94482-7,Human coronavirus OC43 RNA [Presence] in Lower respiratory specimen by NAA with non-probe detection
+94483-5,Parainfluenza virus 1 RNA [Presence] in Lower respiratory specimen by NAA with non-probe detection
+94484-3,Parainfluenza virus 2 RNA [Presence] in Lower respiratory specimen by NAA with non-probe detection
+94485-0,Parainfluenza virus 3 RNA [Presence] in Lower respiratory specimen by NAA with non-probe detection
+94486-8,Parainfluenza virus 4 RNA [Presence] in Lower respiratory specimen by NAA with non-probe detection
+94460-3,Healthcare navigator Conference note
+94461-1,Solid Organ Transplant Consult note
+94462-9,Cardiology Intensive care unit Consult note
+94463-7,Bone Marrow Transplant Consult note
+94464-5,Solid Organ Transplant Discharge summary
+94465-2,Bone Marrow Transplant Discharge summary
+94466-0,Solid Organ Transplant Progress note
+94468-6,Bone Marrow Transplant Progress note
+94467-8,Cardiology Intensive care unit Progress note
+94459-5,Date treatment prescribed
+94454-6,Arsenite [Mass/volume] in Urine
+94455-3,Arsenobetaine [Mass/volume] in Urine
+94456-1,Arsenocholine [Mass/volume] in Urine
+94458-7,Monomethylarsonate [Mass/volume] in Urine
+94457-9,Dimethylarsinate [Mass/volume] in Urine
+94428-0,HLA class I and II IgG panel - Serum or Plasma by Flow cytometry (FC)
+94429-8,HLA-DP & DQ & DR (class II) Ab.IgG low risk [Identifier] in Serum or Plasma by Flow cytometry (FC)
+94430-6,HLA-A & B & C (class I) Ab.IgG low risk [Identifier] in Serum or Plasma by Flow cytometry (FC)
+94432-2,HLA-DP and DQ and DR (class II) IgG Ab [Identifier] in Serum or Plasma by Flow cytometry (FC)
+94431-4,Dilution factor [Titer] in Serum or Plasma
+94434-8,HLA-DPB1 IgG Ab [Identifier] in Serum or Plasma by Flow cytometry (FC)
+94433-0,HLA-DP & DQ & DR (class II) Ab.IgG with prozone effect [Identifier] in Serum or Plasma by Flow cytometry (FC)
+94437-1,HLA-DQA1 IgG Ab [Identifier] in Serum or Plasma by Flow cytometry (FC)
+94436-3,HLA-DQB1 IgG Ab [Identifier] in Serum or Plasma by Flow cytometry (FC)
+94435-5,HLA-DPA1 IgG Ab [Identifier] in Serum or Plasma by Flow cytometry (FC)
+94438-9,HLA-DRB3 & HLA-DRB4 & HLA DRB5 IgG Ab [Identifier] in Serum or Plasma by Flow cytometry (FC)
+94439-7,HLA-DRB1 IgG Ab [Identifier] in Serum or Plasma by Flow cytometry (FC)
+94440-5,HLA-DP and DQ and DR (class II) IgG panel - Serum or Plasma by Flow cytometry (FC)
+94441-3,HLA-A and B and C (class I) IgG Ab [Identifier] in Serum or Plasma by Flow cytometry (FC)
+94442-1,HLA-A & B & C (class I) Ab.IgG with prozone effect [Identifier] in Serum or Plasma by Flow cytometry (FC)
+94443-9,HLA-C IgG Ab [Identifier] in Serum or Plasma by Flow cytometry (FC)
+94444-7,HLA-B IgG Ab [Identifier] in Serum or Plasma by Flow cytometry (FC)
+94445-4,HLA-A IgG Ab [Identifier] in Serum or Plasma by Flow cytometry (FC)
+94446-2,HLA-A and B and C (class I) IgG panel - Serum or Plasma by Flow cytometry (FC)
+94447-0,HLA-DP & DQ & DR (class II) Ab.IgG high risk [Identifier] in Serum or Plasma by Flow cytometry (FC)
+94448-8,HLA-DP & DQ & DR (class II) Ab.IgG intermediate risk [Identifier] in Serum or Plasma by Flow cytometry (FC)
+94449-6,HLA-A & B & C (class I) Ab.IgG high risk [Identifier] in Serum or Plasma by Flow cytometry (FC)
+94450-4,HLA-A & B & C (class I) Ab.IgG intermediate risk [Identifier] in Serum or Plasma by Flow cytometry (FC)
+94426-4,Dengue virus 1+2+3+4 3' UTR RNA [Presence] in Cerebral spinal fluid by NAA with probe detection
+94427-2,Dengue virus 1+2+3+4 3' UTR RNA [Presence] in Serum by NAA with probe detection
+94332-4,Microsporidia sp 18S rRNA gene panel - Unspecified specimen by NAA with non-probe detection
+94333-2,Encephalitozoon sp 18S rRNA gene [Presence] in Unspecified specimen by NAA with non-probe detection
+94334-0,Enterocytozoon bieneusi 18S rRNA gene [Presence] in Unspecified specimen by NAA with non-probe detection
+94335-7,Desmoglein 1 and Desmoglein 3 IgG panel - Serum by Immunoassay
+94336-5,Desmoglein 1 IgG Ab [Units/volume] in Serum by Immunoassay
+94337-3,Desmoglein 3 IgG Ab [Units/volume] in Serum by Immunoassay
+94338-1,Chromosome 13+15+16+18+21+22+X+Y aneuploidy in Products of Conception by FISH
+94339-9,Autoimmune myelopathy evaluation panel - Serum
+94340-7,Amphiphysin IgG Ab [Titer] in Serum by Immunofluorescence
+94341-5,Glial nuclear type 1 IgG Ab [Titer] in Serum by Immunofluorescence
+94342-3,Neuronal nuclear type 1 IgG Ab [Titer] in Serum by Immunofluorescence
+94343-1,Neuronal nuclear type 2 IgG Ab [Titer] in Serum by Immunofluorescence
+94346-4,Glial fibrillary acidic protein alpha subunit IgG Ab [Presence] in Serum by Immunofluorescence
+94344-9,Neuronal nuclear type 3 IgG Ab [Titer] in Serum by Immunofluorescence
+94345-6,Glutamate decarboxylase 65 IgG+IgM Ab [Moles/volume] in Serum by Immunoassay
+94349-8,Voltage-gated calcium channel P/Q type binding IgG+IgM Ab [Moles/volume] in Serum by Immunoassay
+94347-2,Metabotropic glutamate receptor 1 IgG Ab [Presence] in Serum by Immunofluorescence
+94348-0,Voltage-gated calcium channel N type binding IgG+IgM Ab [Moles/volume] in Serum by Immunoassay
+94350-6,PCA-1 IgG Ab [Titer] in Serum by Immunofluorescence
+94351-4,PCA-2 IgG Ab [Titer] in Serum by Immunofluorescence
+94352-2,PCA-Tr IgG Ab [Titer] in Serum by Immunofluorescence
+94353-0,Autoimmune myelopathy evaluation panel - Cerebral spinal fluid
+94354-8,Amphiphysin IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence
+94357-1,Neuronal nuclear type 2 IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence
+94355-5,Glial nuclear type 1 IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence
+94356-3,Neuronal nuclear type 1 IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence
+94360-5,Glial fibrillary acidic protein IgG Ab [Presence] in Cerebral spinal fluid by Immunofluorescence
+94358-9,Neuronal nuclear type 3 IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence
+94359-7,Glutamate decarboxylase 65 IgG+IgM Ab [Moles/volume] in Cerebral spinal fluid by Immunoassay
+94361-3,Metabotropic glutamate receptor 1 IgG Ab [Presence] in Cerebral spinal fluid by Immunofluorescence
+94362-1,PCA-Tr IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence
+94363-9,PCA-1 IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence
+94364-7,PCA-2 IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence
+94365-4,Bordetella pertussis DNA [Presence] in Lower respiratory specimen by NAA with probe detection
+94366-2,Streptococcus pyogenes DNA [Presence] in Lower respiratory specimen by NAA with probe detection
+94367-0,Streptococcus pneumoniae DNA [Presence] in Lower respiratory specimen by NAA with probe detection
+94369-6,Staphylococcus aureus DNA [Presence] in Lower respiratory specimen by NAA with probe detection
+94368-8,Streptococcus agalactiae DNA [Presence] in Lower respiratory specimen by NAA with probe detection
+94370-4,Serratia marcescens DNA [Presence] in Lower respiratory specimen by NAA with probe detection
+94371-2,Pseudomonas aeruginosa DNA [Presence] in Lower respiratory specimen by NAA with probe detection
+94372-0,Proteus sp DNA [Presence] in Lower respiratory specimen by NAA with probe detection
+94373-8,Moraxella catarrhalis DNA [Presence] in Lower respiratory specimen by NAA with probe detection
+94374-6,Klebsiella pneumoniae DNA [Presence] in Lower respiratory specimen by NAA with probe detection
+94375-3,Klebsiella oxytoca DNA [Presence] in Lower respiratory specimen by NAA with probe detection
+94377-9,Haemophilus influenzae DNA [Presence] in Lower respiratory specimen by NAA with probe detection
+94378-7,Escherichia coli DNA [Presence] in Lower respiratory specimen by NAA with probe detection
+94376-1,Klebsiella aerogenes DNA [Presence] in Lower respiratory specimen by NAA with probe detection
+94380-3,Acinetobacter baumannii DNA [Presence] in Lower respiratory specimen by NAA with probe detection
+94379-5,Enterobacter cloacae complex DNA [Presence] in Lower respiratory specimen by NAA with probe detection
+94381-1,"2,3-dinor 11 beta-Prostaglandin F2 alpha/Creatinine [Mass Ratio] in 24 hour Urine"
+94391-0,Respiratory viral pathogens DNA and RNA panel - Lower respiratory specimen by NAA with probe detection
+94392-8,Bordetella pertussis+parapertussis+bronchiseptica gidA gene [Presence] in Lower respiratory specimen by NAA with probe detection
+94394-4,Influenza virus A H3 RNA [Presence] in Lower respiratory specimen by NAA with probe detection
+94393-6,Respiratory pathogens DNA and RNA panel - Lower respiratory specimen by NAA with probe detection
+94396-9,Influenza virus A H1 RNA [Presence] in Lower respiratory specimen by NAA with probe detection
+94395-1,Influenza virus A H1 2009 pandemic RNA [Presence] in Lower respiratory specimen by NAA with probe detection
+94397-7,"Sulfocysteine, Hypoxanthine, Xanthine, Urate and Creatinine panel - Urine"
+94398-5,Ethyl sulfate [Mass/mass] in Meconium by Confirmatory method
+94399-3,Ethyl glucuronide [Mass/mass] in Meconium by Confirmatory method
+94400-9,Protein.monoclonal [Presence] in Serum or Plasma
+94419-9,Candida auris [Presence] in Isolate by MS.MALDI-TOF
+94420-7,Lactobacillus crispatus+gasseri+jensenii + Gardnerella vaginalis + Atopobium vaginae rRNA [Presence] in Vaginal fluid by NAA with probe detection
+94421-5,Candida glabrata RNA [Presence] in Vaginal fluid by NAA with probe detection
+94422-3,"Candida albicans, C. dubliniensis, C. parapsilosis, and C. tropicalis RNA [Presence] in Vaginal fluid by NAA with probe detection"
+94423-1,Lysosomal enzymes screen [Interpretation] in Urine Narrative
+94424-9,Staphylococcus aureus methicillin resistance SCCmec+orfX junction [Presence] by Molecular method
+94425-6,Human papilloma virus E6+E7 mRNA [Presence] in Unspecified specimen by NAA with probe detection
+94330-8,Specimen Processing comment
+94331-6,Specimen Collection procedure comment
+94327-4,PhenX - human papillomavirus vaccine use protocol 100802
+94318-3,Medical Aid in Dying Plan of care note
+94319-1,Medical Aid in Dying Consult note
+94320-9,Medical Aid in Dying procedure note
+94322-5,Medical Aid in Dying Telephone encounter Note
+94321-7,Medical Aid in Dying Team Note
+94323-3,"Wound, Ostomy, and Continence Care Team Conference note"
+94324-1,Orthopaedic surgery Care management note
+94303-5,Pregnenolone and 17-Hydroxypregnenolone panel - Serum or Plasma
+94304-3,OxyCODONE and metabolites panel - Urine by Confirmatory method
+94305-0,OxyMORphone and Noroxymorphone panel - Urine by Confirmatory method
+94269-8,Platelet aggregation EPINEPHrine induced in Platelet rich plasma --50 umol/L
+94270-6,Coenzyme Q10 [Moles/mass] in Leukocytes
+94271-4,PCA-1 IgG Ab [Presence] in Serum by Line blot
+94272-2,PCA-1 IgG Ab [Presence] in Cerebral spinal fluid by Line blot
+94273-0,Muscle specific receptor tyrosine kinase IgG Ab [Moles/volume] in Serum by Immunoassay
+94274-8,Bedaquiline [Susceptibility]
+94275-5,Honey bee acid phosphatase recombinant (rApi m) 3 IgE Ab [Units/volume] in Serum
+94276-3,Honey bee dipeptidyl peptidase recombinant (rApi m) 5 IgE Ab [Units/volume] in Serum
+94277-1,Dog recombinant 6 IgE Ab [Units/volume] in Serum
+94278-9,Cat recombinant (rFel d) 7 IgE Ab [Units/volume] in Serum
+94279-7,Honey bee acid phosphatase recombinant (rApi m) 3 IgE Ab RAST class [Presence] in Serum
+94280-5,Honey bee dipeptidyl peptidase recombinant (rApi m) 5 IgE Ab RAST class [Presence] in Serum
+94282-1,Cat recombinant (rFel d) 7 IgE Ab RAST class [Presence] in Serum
+94281-3,Dog recombinant 6 IgE Ab RAST class [Presence] in Serum
+94283-9,Dipeptidyl aminopeptidase-like protein 6 IgG Ab [Presence] in Cerebral spinal fluid by Cell binding assay immunofluorescent assay
+94284-7,Dipeptidyl aminopeptidase-like protein 6 IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence
+94285-4,Contactin-associated protein 2 IgG Ab [Presence] in Serum by Cell binding assay immunofluorescent assay
+94286-2,Contactin-associated protein 2 IgG Ab [Presence] in Cerebral spinal fluid by Cell binding assay immunofluorescent assay
+94287-0,Leucine-rich glioma-inactivated protein 1 IgG Ab [Presence] in Serum by Cell binding assay immunofluorescent assay
+94288-8,Leucine-rich glioma-inactivated protein 1 IgG Ab [Presence] in Cerebral spinal fluid by Cell binding assay immunofluorescent assay
+94289-6,West Nile virus Ab [Presence] in Unspecified specimen by Neutralization test
+94290-4,Saint Louis encephalitis virus Ab [Presence] in Unspecified specimen by Neutralization test
+94291-2,Hydroxybupropion [Presence] in Serum or Plasma by Screen method
+94293-8,Citalopram+Escitalopram [Mass/volume] in Serum or Plasma by Confirmatory method
+94294-6,Norcitalopram [Presence] in Serum or Plasma by Screen method
+94292-0,Citalopram+Escitalopram [Presence] in Serum or Plasma by Screen method
+94295-3,DULoxetine [Presence] in Serum or Plasma by Screen method
+94296-1,Norfluvoxamine [Presence] in Serum or Plasma by Screen method
+94297-9,Norfluvoxamine [Mass/volume] in Serum or Plasma by Confirmatory method
+94300-1,Vilazodone [Mass/volume] in Serum or Plasma by Confirmatory method
+94298-7,Norvenlafaxine [Presence] in Serum or Plasma by Screen method
+94299-5,Vilazodone [Presence] in Serum or Plasma by Screen method
+94302-7,Vortioxetine [Mass/volume] in Serum or Plasma by Confirmatory method
+94301-9,Vortioxetine [Presence] in Serum or Plasma by Screen method
+94265-6,CD18 cells [Presence] in Blood
+94266-4,"CD11a, CD11b, and CD18 phenotyping panel - Blood Qualitative"
+94267-2,CD11b cells [Presence] in Blood
+94268-0,CD11a cells [Presence] in Blood
+94264-9,Brucella sp Ab [Titer] in Cerebral spinal fluid by Immunocapture agglutination
+94247-4,Borrelia burgdorferi oppA2 gene [Presence] in Blood by NAA with non-probe detection
+94248-2,Borrelia mayonii oppA2 gene [Presence] in Blood by NAA with non-probe detection
+94249-0,Borrelia garinii+afzelii oppA2 gene [Presence] in Blood by NAA with non-probe detection
+94250-8,Borrelia burgdorferi oppA2 gene [Presence] in Unspecified specimen by NAA with non-probe detection
+94251-6,Borrelia mayonii oppA2 gene [Presence] in Unspecified specimen by NAA with non-probe detection
+94252-4,Borrelia garinii+afzelii oppA2 gene [Presence] in Unspecified specimen by NAA with non-probe detection
+94253-2,Borrelia sp panel - Unspecified specimen by NAA with non-probe detection
+94257-3,PROMIS pediatric - global health 7 - version 1.0
+94258-1,PROMIS pediatric - global health 7 - version 1.0 raw score
+94263-1,PROMIS pediatric - global health 7 - version 1.0 T-score
+94182-3,PROMIS parent proxy physical function - upper extremity - version 1.0 T-score
+94183-1,Heartland banyangvirus RNA [Presence] in Unspecified specimen by NAA with probe detection
+94184-9,Yellow fever virus RNA [Presence] in Unspecified specimen by NAA with probe detection
+94185-6,Borrelia miyamotoi glpQ gene [Presence] in Unspecified specimen by NAA with probe detection
+94186-4,Origin of germline genetic variant [Type]
+94187-2,Platelet aggregation [Interpretation] in Platelet rich plasma
+94188-0,APC gene deletion+duplication and full mutation analysis in Blood or Tissue by Molecular genetics method
+94189-8,APOA2 gene full mutation analysis in Blood or Tissue by Sequencing
+94190-6,BPGM gene full mutation analysis in Blood or Tissue by Sequencing
+94192-2,SLC25A20 gene full mutation analysis in Blood or Tissue by Sequencing
+94193-0,CDKN1C gene full mutation analysis in Blood or Tissue by Sequencing
+94191-4,BRCA1+BRCA2 gene deletion+duplication and full mutation analysis in Blood or Tissue by Molecular genetics method
+94195-5,CPT2 gene full mutation analysis in Blood or Tissue by Sequencing
+94196-3,CTRC gene full mutation analysis in Blood or Tissue by Sequencing
+94194-8,CPOX gene full mutation analysis in Blood or Tissue by Sequencing
+94197-1,CYP21A2 gene deletion+duplication and full mutation analysis in Blood or Tissue by Molecular genetics method
+94199-7,FGA gene full mutation analysis in Blood or Tissue by Sequencing
+94198-9,DPYD gene full mutation analysis in Blood or Tissue by Sequencing
+94202-9,GRHPR gene deletion+duplication and full mutation analysis in Blood or Tissue by Molecular genetics method
+94200-3,FTCD gene full mutation analysis in Blood or Tissue by Sequencing
+94201-1,GNPTAB gene full mutation analysis in Blood or Tissue by Sequencing
+94205-2,LYZ gene full mutation analysis in Blood or Tissue by Sequencing
+94203-7,GSN gene full mutation analysis in Blood or Tissue by Sequencing
+94204-5,HMBS gene full mutation analysis in Blood or Tissue by Sequencing
+94206-0,MMACHC gene full mutation analysis in Blood or Tissue by Sequencing
+94207-8,MMADHC gene full mutation analysis in Blood or Tissue by Sequencing
+94208-6,MLYCD gene deletion+duplication and full mutation analysis in Blood or Tissue by Molecular genetics method
+94209-4,NAGLU gene full mutation analysis in Blood or Tissue by Sequencing
+94210-2,ARSB gene full mutation analysis in Blood or Tissue by Sequencing
+94211-0,NPC1 gene+NPC2 gene deletion+duplication and full mutation analysis in Blood or Tissue by Molecular genetics method
+94212-8,PKLR gene deletion+duplication and full mutation analysis in Blood or Tissue by Molecular genetics method
+94213-6,PPOX gene full mutation analysis in Blood or Tissue by Sequencing
+94214-4,PRKAR1A gene deletion+duplication and full mutation analysis in Blood or Tissue by Molecular genetics method
+94215-1,PRSS1 gene full mutation analysis in Blood or Tissue by Sequencing
+94216-9,STK11 gene deletion+duplication and full mutation analysis in Blood or Tissue by Molecular genetics method
+94217-7,TP53 gene deletion+duplication and full mutation analysis in Blood or Tissue by Molecular genetics method
+94218-5,UBE3A gene full mutation analysis in Blood or Tissue by Sequencing
+94219-3,VWF gene full mutation analysis in Blood or Tissue by Sequencing
+94222-7,SERPINA1 gene full mutation analysis in Blood or Tissue by Sequencing
+94220-1,SPINK1 gene full mutation analysis in Blood or Tissue by Sequencing
+94221-9,SMN1 gene full mutation analysis in Blood or Tissue by Sequencing
+94225-0,TTR gene full mutation analysis in Blood or Tissue by Sequencing
+94223-5,PTEN gene deletion+duplication and full mutation analysis in Blood or Tissue by Molecular genetics method
+94224-3,RET gene full mutation analysis in Blood or Tissue by Sequencing
+94226-8,PKHD1 gene full mutation analysis in Blood or Tissue by Sequencing
+94227-6,AGXT gene deletion+duplication and full mutation analysis in Blood or Tissue by Molecular genetics method
+94228-4,MUTYH gene full mutation analysis in Blood or Tissue by Sequencing
+94229-2,MECP2 gene deletion+duplication and full mutation analysis in Blood or Tissue by Molecular genetics method
+94230-0,GBA gene full mutation analysis in Blood or Tissue by Sequencing
+94231-8,G6PD gene full mutation analysis in Blood or Tissue by Sequencing
+94233-4,FECH gene full mutation analysis in Blood or Tissue by Sequencing
+94234-2,F8 gene full mutation analysis in Blood or Tissue by Sequencing
+94232-6,FLCN gene deletion+duplication and full mutation analysis in Blood or Tissue by Molecular genetics method
+94236-7,F5 gene full mutation analysis in Blood or Tissue by Sequencing
+94237-5,F2 gene full mutation analysis in Blood or Tissue by Sequencing
+94235-9,F7 gene full mutation analysis in Blood or Tissue by Sequencing
+94238-3,F12 gene full mutation analysis in Blood or Tissue by Sequencing
+94239-1,F11 gene full mutation analysis in Blood or Tissue by Sequencing
+94240-9,CDH1 gene deletion+duplication and full mutation analysis in Blood or Tissue by Molecular genetics method
+94241-7,BTK gene full mutation analysis in Blood or Tissue by Sequencing
+94242-5,BTD gene full mutation analysis in Blood or Tissue by Sequencing
+94243-3,Healthcare navigator Note
+94244-1,"Wound, Ostomy, and Continence Care Plan of care note"
+94245-8,"Wound, Ostomy, and Continence Care Progress note"
+94246-6,"Wound, Ostomy, and Continence Care Telephone encounter Note"
+94181-5,PROMIS parent proxy global health - version 1.0 T-score
+94169-0,PROMIS parent proxy short form - physical function - upper extremity 8 - version 1.0
+94170-8,PROMIS parent proxy physical function - upper extremity - version 1.0 raw score
+94173-2,My child could pull open heavy doors in past 7D [PROMIS.PARENTPROXY]
+94172-4,My child could open a jar by himself or herself in past 7D [PROMIS.PARENTPROXY]
+94171-6,My child could pour a drink from a full pitcher in past 7D [PROMIS.PARENTPROXY]
+94175-7,My child could pull a shirt on over his or her head without help in past 7D [PROMIS.PARENTPROXY]
+94176-5,My child could open the rings in school binders in past 7D [PROMIS.PARENTPROXY]
+94174-0,My child could use a key to unlock a door in past 7D [PROMIS.PARENTPROXY]
+94177-3,My child could button his or her shirt or pants in past 7D [PROMIS.PARENTPROXY]
+94178-1,My child could put on his or her shoes without help in past 7D [PROMIS.PARENTPROXY]
+94179-9,PROMIS parent proxy short form - pain interference 8 - version 1.0 raw score
+94180-7,PROMIS parent proxy short form - pain interference 8 - version 1.0
+94161-7,PROMIS parent proxy item bank - mobility - version 1.0
+94162-5,PROMIS parent proxy item bank - pain interference - version 1.0
+94163-3,PROMIS parent proxy pain interference - version 1.0 T-score
+94164-1,PROMIS parent proxy - global health 7 - version 1.0 raw score
+94165-8,PROMIS parent proxy - global health 7 - version 1.0
+94166-6,PROMIS parent proxy short form - mobility 8 - version 1.0
+94167-4,PROMIS parent proxy short form mobility 8 - version 1.0 raw score
+94157-5,PhenX - age of initiation of first cigarette use - adult protocol 030703
+94158-3,PhenX - ethnicity protocol 010502
+94151-8,Bacteria.carbapenem resistant identified in Unspecified specimen by Organism specific culture
+94149-2,"Heterophile Ab [Presence] in Serum, Plasma or Blood by Rapid immunoassay"
+94147-6,Mitral valve B-bump by US.M-mode
+94148-4,Descending thoracic aorta Holodiastolic flow reversal by US.doppler
+94145-0,Crotonylglycine/Creatinine [Molar ratio] in Urine
+94146-8,2-Decenedioate/Creatinine [Molar ratio] in Urine
+93414-1,Altered level of consciousness in last 3 day [CAM.CMS]
+14647-2,Cholesterol [Moles/volume] in Serum or Plasma
+14646-4,Cholesterol in HDL [Moles/volume] in Serum or Plasma
+7799-0,Fibrin D-dimer [Units/volume] in Platelet poor plasma
+33256-9,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood by Automated count
+7789-1,Acanthocytes [Presence] in Blood by Light microscopy
+1715-2,Acid phosphatase [Enzymatic activity/volume] in Serum or Plasma
+3184-9,Activated clotting time (ACT) of Blood by Coagulation assay
+1754-1,Albumin [Mass/volume] in Urine
+19343-3,Amphetamine [Presence] in Urine by Screen method
+600-7,Bacteria identified in Blood by Culture
+606-4,Bacteria identified in Cerebral spinal fluid by Culture
+10352-3,Bacteria identified in Genital specimen by Aerobe culture
+6460-0,Bacteria identified in Sputum by Culture
+624-7,Bacteria identified in Sputum by Respiratory culture
+625-4,Bacteria identified in Stool by Culture
+626-2,Bacteria identified in Throat by Culture
+635-3,Bacteria identified in Unspecified specimen by Anaerobe culture
+32355-0,Bacteria identified in Unspecified specimen by Respiratory culture
+630-4,Bacteria identified in Urine by Culture
+764-1,Band form neutrophils/100 leukocytes in Blood by Manual count
+703-9,Basophilic stippling [Presence] in Blood by Light microscopy
+44447-1,Beta 2 glycoprotein 1 IgA Ab [Units/volume] in Serum or Plasma by Immunoassay
+1977-8,Bilirubin.total [Presence] in Urine
+8306-3,Body height --lying
+3138-5,Body height Stated
+75292-3,Body weight - Reported --usual
+17863-2,Calcium.ionized [Mass/volume] in Serum or Plasma
+1995-0,Calcium.ionized [Moles/volume] in Serum or Plasma
+10334-1,Cancer Ag 125 [Units/volume] in Serum or Plasma
+2026-3,"Carbon dioxide, total [Moles/volume] in Arterial blood"
+2027-1,"Carbon dioxide, total [Moles/volume] in Venous blood"
+560-3,Chlamydia sp identified in Unspecified specimen by Organism specific culture
+19080-1,Choriogonadotropin [Units/volume] in Serum or Plasma
+32167-9,Clarity of Urine
+3397-7,Cocaine [Presence] in Urine
+19359-9,Cocaine [Presence] in Urine by Screen method
+8462-4,Diastolic blood pressure
+7792-5,Dohle body [Presence] in Blood by Light microscopy
+6742-1,Erythrocyte morphology finding [Identifier] in Blood
+60836-4,Esophageal temperature
+48065-7,Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma
+601-5,Fungus identified in Blood by Culture
+580-1,Fungus identified in Unspecified specimen by Culture
+3663-2,Gentamicin [Mass/volume] in Serum or Plasma --peak
+3665-7,Gentamicin [Mass/volume] in Serum or Plasma --trough
+2336-6,Globulin [Mass/volume] in Serum
+32016-8,Glucose [Mass/volume] in Capillary blood
+20438-8,Glucose [Mass/volume] in Serum or Plasma --1 hour post dose glucose
+20436-2,Glucose [Mass/volume] in Serum or Plasma --2 hours post dose glucose
+25428-4,Glucose [Presence] in Urine by Test strip
+8867-4,Heart rate
+8890-6,Heart rate Cardiac apex by Auscultation
+8893-0,Heart rate Peripheral artery by palpation
+725-2,Hemoglobin [Presence] in Urine
+13951-9,Hepatitis A virus Ab [Presence] in Serum by Immunoassay
+5859-4,Herpes simplex virus identified in Unspecified specimen by Organism specific culture
+20447-9,HIV 1 RNA [#/volume] (viral load) in Serum or Plasma by Probe and target amplification method
+29541-0,HIV 1 RNA [Log #/volume] (viral load) in Plasma by Probe and target amplification method
+33903-6,Ketones [Presence] in Urine
+2518-9,Lactate [Moles/volume] in Arterial blood
+32781-7,Legionella sp Ag [Presence] in Urine
+13317-3,Methicillin resistant Staphylococcus aureus [Presence] in Unspecified specimen by Organism specific culture
+14267-9,Methylenedioxymethamphetamine [Presence] in Urine
+10329-1,Monocytes/100 leukocytes in Cerebral spinal fluid by Manual count
+543-9,Mycobacterium sp identified in Unspecified specimen by Organism specific culture
+33762-6,Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma
+698-1,Neisseria gonorrhoeae [Presence] in Unspecified specimen by Organism specific culture
+29953-7,Nuclear Ab [Titer] in Serum
+59418-4,Oxygen saturation in Blood Postductal by Pulse oximetry
+59407-7,Oxygen saturation in Blood Preductal by Pulse oximetry
+3936-2,Phencyclidine [Presence] in Urine
+19659-2,Phencyclidine [Presence] in Urine by Screen method
+12851-2,Protein Fractions [Interpretation] in Serum or Plasma by Electrophoresis
+13438-7,Protein Fractions [Interpretation] in Urine by Electrophoresis
+31147-2,Reagin Ab [Titer] in Serum by RPR
+9279-1,Respiratory rate
+60474-4,Reticulocytes [#/volume] in Blood by Automated count
+7797-4,Rouleaux [Presence] in Blood by Light microscopy
+800-3,Schistocytes [Presence] in Blood by Light microscopy
+801-1,Sickle cells [Presence] in Blood by Light microscopy
+17792-3,Sjogrens syndrome-A extractable nuclear Ab [Units/volume] in Serum
+17791-5,Sjogrens syndrome-B extractable nuclear Ab [Units/volume] in Serum
+7798-2,Smudge cells [Presence] in Blood by Light microscopy
+2965-2,Specific gravity of Urine
+8248-7,Spermatozoa [Presence] in Urine sediment by Light microscopy
+10380-4,Stomatocytes [Presence] in Blood by Light microscopy
+18481-2,Streptococcus pyogenes Ag [Presence] in Throat
+8480-6,Systolic blood pressure
+8479-8,Systolic blood pressure by palpation
+32215-6,Thyroxine (T4) free index in Serum or Plasma by calculation
+4059-2,Tobramycin [Mass/volume] in Serum or Plasma --trough
+803-7,Toxic granules [Presence] in Blood by Light microscopy
+3092-4,Urea [Mass/volume] in Urine
+4092-3,Vancomycin [Mass/volume] in Serum or Plasma --trough
+9624-8,Vanillylmandelate [Mass/volume] in Urine
+62290-2,"1,25-Dihydroxyvitamin D [Mass/volume] in Serum or Plasma"
+34571-0,aPTT.lupus sensitive (LA screen)
+35503-2,Arterial patency Wrist artery --pre arterial puncture
+25145-4,Bacteria [Presence] in Urine sediment by Light microscopy
+611-4,Bacteria identified in Body fluid by Culture
+19128-8,Bacteria identified in Catheter tip by Culture
+43408-4,Bacteria identified in Tissue by Culture
+6462-6,Bacteria identified in Wound by Culture
+28640-1,Bicarbonate [Moles/volume] in Arterial cord blood
+28641-9,Bicarbonate [Moles/volume] in Venous cord blood
+76539-6,Blood pressure device Cuff pressure.diastolic
+76538-8,Blood pressure device Cuff pressure.systolic
+934-0,Blood product unit ID [#]
+61008-9,Body surface temperature
+8335-2,Body weight Estimated
+8348-5,Body weight Measured --pre pregnancy
+8514-2,Brachial artery - left Diastolic blood pressure
+8546-4,Brachial artery - left Systolic blood pressure
+8515-9,Brachial artery - right Diastolic blood pressure
+8547-2,Brachial artery - right Systolic blood pressure
+33438-3,Breath rate mechanical --on ventilator
+19840-8,Breath rate spontaneous and mechanical --on ventilator
+19839-0,Breath rate spontaneous --on ventilator
+2236-8,Calciferol (Vit D2) [Mass/volume] in Serum or Plasma
+5774-5,Calcium oxalate crystals [Presence] in Urine sediment by Light microscopy
+44971-0,Capillary refill [Time]
+44963-7,Capillary refill [Time] of Nail bed
+28644-3,Carbon dioxide [Partial pressure] in Arterial cord blood
+28645-0,Carbon dioxide [Partial pressure] in Venous cord blood
+35729-3,Chlamydia sp DNA [Presence] in Unspecified specimen by Probe and target amplification method
+5777-8,Cholesterol crystals [Presence] in Urine sediment by Light microscopy
+20465-1,Choriogonadotropin [Multiple of the median] in Serum or Plasma
+2110-5,Choriogonadotropin.beta subunit (pregnancy test) [Presence] in Serum or Plasma
+38386-9,Color of Amniotic fluid
+4532-8,Complement total hemolytic CH50 [Units/volume] in Serum or Plasma
+9795-6,Composition in Stone
+9813-7,Cortisol [Mass/volume] in Serum or Plasma --AM peak specimen
+9812-9,Cortisol [Mass/volume] in Serum or Plasma --PM trough specimen
+30247-1,Cytomegalovirus DNA [#/volume] (viral load) in Serum or Plasma by Probe and target amplification method
+8453-3,Diastolic blood pressure--sitting
+8454-1,Diastolic blood pressure--standing
+8455-8,Diastolic blood pressure--supine
+1006-6,Direct antiglobulin test.IgG specific reagent [Interpretation] on Red Blood Cells
+54247-2,Drug screen comment [Interpretation] in Urine
+55283-6,Fetal Heart rate
+20404-0,Fibronectin.fetal [Presence] in Vaginal fluid
+5908-9,Giant platelets [Presence] in Blood by Light microscopy
+1521-4,Glucose [Mass/volume] in Serum or Plasma --2 hours post meal
+20437-0,Glucose [Mass/volume] in Serum or Plasma --3 hours post dose glucose
+20439-6,Glucose [Mass/volume] in Serum or Plasma --30 minutes post dose glucose
+69000-8,Heart rate --sitting
+69001-6,Heart rate --standing
+68999-2,Heart rate --supine
+6420-4,Helicobacter pylori IgA Ab [Units/volume] in Serum by Immunoassay
+5176-3,Helicobacter pylori IgG Ab [Units/volume] in Serum by Immunoassay
+31204-1,Hepatitis B virus core IgM Ab [Presence] in Serum
+29615-2,Hepatitis B virus DNA [#/volume] (viral load) in Serum or Plasma by Probe and target amplification method
+16935-9,Hepatitis B virus surface Ab [Units/volume] in Serum
+65633-0,Hepatitis B virus surface Ag [Presence] in Serum or Plasma by Confirmatory method
+16128-1,Hepatitis C virus Ab [Presence] in Serum
+31418-7,Heterophile Ab [Presence] in Serum
+7918-6,HIV 1+2 Ab [Presence] in Serum
+31201-7,HIV 1+2 Ab [Presence] in Serum or Plasma by Immunoassay
+49580-4,HIV 1+2 Ab [Presence] in Unspecified specimen by Rapid immunoassay
+2428-1,Homocysteine [Mass/volume] in Serum or Plasma
+46418-0,INR in Capillary blood by Coagulation assay
+3719-2,Lithium [Mass/volume] in Serum or Plasma
+35492-8,Methicillin resistant Staphylococcus aureus (MRSA) DNA [Presence] in Unspecified specimen by Probe and target amplification method
+8247-9,Mucus [Presence] in Urine sediment by Light microscopy
+18309-5,Nucleated erythrocytes/100 leukocytes [Ratio] in Blood by Manual count
+774-0,Ovalocytes [Presence] in Blood by Light microscopy
+28648-4,Oxygen [Partial pressure] in Arterial cord blood
+28649-2,Oxygen [Partial pressure] in Venous cord blood
+59409-3,Oxygen saturation in Arterial blood by Pulse oximetry --during treatment
+59412-7,Oxygen saturation in Arterial blood by Pulse oximetry --post exercise
+59413-5,Oxygen saturation in Arterial blood by Pulse oximetry --post treatment
+59416-8,Oxygen saturation in Arterial blood by Pulse oximetry --pre treatment
+59417-6,Oxygen saturation in Arterial blood by Pulse oximetry --resting
+28646-8,pH of Arterial cord blood
+6007-9,Protein C [Units/volume] in Platelet poor plasma by Coagulation assay
+5892-5,Protein S [Units/volume] in Platelet poor plasma by Coagulation assay
+5964-2,Prothrombin time (PT) in Blood by Coagulation assay
+40441-8,Respiratory rate --post exercise
+9298-1,Respiratory rate --post inhalation therapy
+9302-1,Respiratory rate --pre inhalation therapy
+9303-9,Respiratory rate --resting
+5876-8,Respiratory syncytial virus Ag [Presence] in Unspecified specimen by Immunoassay
+22496-4,Rubella virus Ab [Presence] in Serum
+8459-0,Systolic blood pressure--sitting
+8460-8,Systolic blood pressure--standing
+8461-6,Systolic blood pressure--supine
+32766-8,Trichomonas vaginalis [Presence] in Unspecified specimen by Wet preparation
+19312-8,Tricyclic antidepressants [Presence] in Urine by Screen method
+5814-9,Triple phosphate crystals [Presence] in Urine sediment by Light microscopy
+4090-7,Vancomycin [Mass/volume] in Serum or Plasma --peak
+31704-0,West Nile virus IgM Ab [Presence] in Serum
+32356-8,Yeast [Presence] in Urine sediment by Light microscopy
+14725-6,[Type] of Body fluid
+1668-3,17-Hydroxyprogesterone [Mass/volume] in Serum or Plasma
+62292-8,25-Hydroxyvitamin D2+25-Hydroxyvitamin D3 [Mass/volume] in Serum or Plasma
+882-1,ABO and Rh group [Type] in Blood
+883-9,ABO group [Type] in Blood
+3298-7,Acetaminophen [Mass/volume] in Serum or Plasma
+1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma
+1747-5,Albumin [Mass/volume] in Body fluid
+1751-7,Albumin [Mass/volume] in Serum or Plasma
+2862-1,Albumin [Mass/volume] in Serum or Plasma by Electrophoresis
+1759-0,Albumin/Globulin [Mass Ratio] in Serum or Plasma
+1761-6,Aldolase [Enzymatic activity/volume] in Serum or Plasma
+1763-2,Aldosterone [Mass/volume] in Serum or Plasma
+6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma
+1825-9,Alpha 1 antitrypsin [Mass/volume] in Serum or Plasma
+2865-4,Alpha 1 globulin [Mass/volume] in Serum or Plasma by Electrophoresis
+2868-8,Alpha 2 globulin [Mass/volume] in Serum or Plasma by Electrophoresis
+1834-1,Alpha-1-Fetoprotein [Mass/volume] in Serum or Plasma
+53962-7,Alpha-1-fetoprotein.tumor marker [Mass/volume] in Serum or Plasma
+16362-6,Ammonia [Moles/volume] in Plasma
+3349-8,Amphetamines [Presence] in Urine
+1795-4,Amylase [Enzymatic activity/volume] in Body fluid
+1798-8,Amylase [Enzymatic activity/volume] in Serum or Plasma
+1799-6,Amylase [Enzymatic activity/volume] in Urine
+2742-5,Angiotensin converting enzyme [Enzymatic activity/volume] in Serum or Plasma
+33037-3,Anion gap in Serum or Plasma
+1869-7,Apolipoprotein A-I [Mass/volume] in Serum or Plasma
+1884-6,Apolipoprotein B [Mass/volume] in Serum or Plasma
+5767-9,Appearance of Urine
+14979-9,aPTT in Platelet poor plasma by Coagulation assay
+1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma
+8328-7,Axillary temperature
+3377-9,Barbiturates [Presence] in Urine
+1925-7,Base excess in Arterial blood by calculation
+11555-0,Base excess in Blood by calculation
+1927-3,Base excess in Venous blood by calculation
+704-7,Basophils [#/volume] in Blood by Automated count
+706-2,Basophils/100 leukocytes in Blood by Automated count
+707-0,Basophils/100 leukocytes in Blood by Manual count
+3390-2,Benzodiazepines [Presence] in Urine
+2871-2,Beta globulin [Mass/volume] in Serum or Plasma by Electrophoresis
+1952-1,Beta-2-Microglobulin [Mass/volume] in Serum or Plasma
+1960-4,Bicarbonate [Moles/volume] in Arterial blood
+1959-6,Bicarbonate [Moles/volume] in Blood
+1961-2,Bicarbonate [Moles/volume] in Capillary blood
+14627-4,Bicarbonate [Moles/volume] in Venous blood
+1968-7,Bilirubin.direct [Mass/volume] in Serum or Plasma
+1971-1,Bilirubin.indirect [Mass/volume] in Serum or Plasma
+42719-5,Bilirubin.total [Mass/volume] in Blood
+1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma
+5770-3,Bilirubin.total [Presence] in Urine by Test strip
+709-6,Blasts/100 leukocytes in Blood by Manual count
+8302-2,Body height
+3137-7,Body height Measured
+8310-5,Body temperature
+8329-5,Body temperature - Core
+29463-7,Body weight
+3141-9,Body weight Measured
+3142-7,Body weight Stated
+79348-9,Body weight --used for drug calculation
+7790-9,Burr cells [Presence] in Blood by Light microscopy
+1986-9,C peptide [Mass/volume] in Serum or Plasma
+1988-5,C reactive protein [Mass/volume] in Serum or Plasma
+30522-7,C reactive protein [Mass/volume] in Serum or Plasma by High sensitivity method
+1989-3,Calcidiol [Mass/volume] in Serum or Plasma
+6874-2,Calcium [Mass/time] in 24 hour Urine
+17861-6,Calcium [Mass/volume] in Serum or Plasma
+17862-4,Calcium [Mass/volume] in Urine
+1994-3,Calcium.ionized [Moles/volume] in Blood
+6875-9,Cancer Ag 15-3 [Units/volume] in Serum or Plasma
+24108-3,Cancer Ag 19-9 [Units/volume] in Serum or Plasma
+17842-6,Cancer Ag 27-29 [Units/volume] in Serum or Plasma
+3427-2,Cannabinoids [Presence] in Urine
+18282-4,Cannabinoids [Presence] in Urine by Screen method
+3432-2,Carbamazepine [Mass/volume] in Serum or Plasma
+2019-8,Carbon dioxide [Partial pressure] in Arterial blood
+11557-6,Carbon dioxide [Partial pressure] in Blood
+2020-6,Carbon dioxide [Partial pressure] in Capillary blood
+2021-4,Carbon dioxide [Partial pressure] in Venous blood
+20565-8,"Carbon dioxide, total [Moles/volume] in Blood"
+2028-9,"Carbon dioxide, total [Moles/volume] in Serum or Plasma"
+2039-6,Carcinoembryonic Ag [Mass/volume] in Serum or Plasma
+5076-5,Cardiolipin IgA Ab [Units/volume] in Serum by Immunoassay
+3181-5,Cardiolipin IgG Ab [Units/volume] in Serum by Immunoassay
+3182-3,Cardiolipin IgM Ab [Units/volume] in Serum by Immunoassay
+2064-4,Ceruloplasmin [Mass/volume] in Serum or Plasma
+2069-3,Chloride [Moles/volume] in Blood
+2075-0,Chloride [Moles/volume] in Serum or Plasma
+2078-4,Chloride [Moles/volume] in Urine
+2093-3,Cholesterol [Mass/volume] in Serum or Plasma
+2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma
+2089-1,Cholesterol in LDL [Mass/volume] in Serum or Plasma
+13457-7,Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation
+18262-6,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay
+2091-7,Cholesterol in VLDL [Mass/volume] in Serum or Plasma
+43396-1,Cholesterol non HDL [Mass/volume] in Serum or Plasma
+2118-8,Choriogonadotropin (pregnancy test) [Presence] in Serum or Plasma
+2106-3,Choriogonadotropin (pregnancy test) [Presence] in Urine
+2112-1,Choriogonadotropin.beta subunit (pregnancy test) [Presence] in Urine
+21198-7,Choriogonadotropin.beta subunit [Units/volume] in Serum or Plasma
+3198-9,Coagulation factor VII activity actual/normal in Platelet poor plasma by Coagulation assay
+3209-4,Coagulation factor VIII activity actual/normal in Platelet poor plasma by Coagulation assay
+2132-9,Cobalamin (Vitamin B12) [Mass/volume] in Serum or Plasma
+10335-8,Color of Cerebral spinal fluid
+5778-6,Color of Urine
+4485-9,Complement C3 [Mass/volume] in Serum or Plasma
+4498-2,Complement C4 [Mass/volume] in Serum or Plasma
+2141-0,Corticotropin [Mass/volume] in Plasma
+2143-6,Cortisol [Mass/volume] in Serum or Plasma
+2147-7,Cortisol Free [Mass/time] in 24 hour Urine
+2157-6,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma
+13969-1,Creatine kinase.MB [Mass/volume] in Serum or Plasma
+2162-6,Creatinine [Mass/time] in 24 hour Urine
+38483-4,Creatinine [Mass/volume] in Blood
+2160-0,Creatinine [Mass/volume] in Serum or Plasma
+2161-8,Creatinine [Mass/volume] in Urine
+2164-2,Creatinine renal clearance in 24 hour
+5117-7,Cryoglobulin [Presence] in Serum
+5838-8,Cytomegalovirus [Presence] in Unspecified specimen by Organism specific culture
+5124-3,Cytomegalovirus IgG Ab [Units/volume] in Serum or Plasma by Immunoassay
+5126-8,Cytomegalovirus IgM Ab [Units/volume] in Serum by Immunoassay
+76535-4,Diastolic blood pressure by Noninvasive
+10535-3,Digoxin [Mass/volume] in Serum or Plasma
+5130-0,DNA double strand Ab [Units/volume] in Serum
+11274-8,Elliptocytes [Presence] in Blood by Light microscopy
+711-2,Eosinophils [#/volume] in Blood by Automated count
+713-8,Eosinophils/100 leukocytes in Blood by Automated count
+12209-3,Eosinophils/100 leukocytes in Body fluid by Manual count
+26052-1,Epithelial cells.renal [#/area] in Urine sediment by Microscopy high power field
+11277-1,Epithelial cells.squamous [#/area] in Urine sediment by Microscopy high power field
+788-0,Erythrocyte distribution width [Ratio] by Automated count
+785-6,Erythrocyte mean corpuscular hemoglobin [Entitic mass] by Automated count
+786-4,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume] by Automated count
+787-2,Erythrocyte mean corpuscular volume [Entitic volume] by Automated count
+4537-7,Erythrocyte sedimentation rate by Westergren method
+13945-1,Erythrocytes [#/area] in Urine sediment by Microscopy high power field
+789-8,Erythrocytes [#/volume] in Blood by Automated count
+26455-6,Erythrocytes [#/volume] in Body fluid
+792-2,Erythrocytes [#/volume] in Cerebral spinal fluid by Manual count
+15061-5,Erythropoietin (EPO) [Units/volume] in Serum or Plasma
+2243-4,Estradiol (E2) [Mass/volume] in Serum or Plasma
+5643-2,Ethanol [Mass/volume] in Serum or Plasma
+2276-4,Ferritin [Mass/volume] in Serum or Plasma
+2283-0,Folate [Mass/volume] in Red Blood Cells
+2284-8,Folate [Mass/volume] in Serum or Plasma
+15067-2,Follitropin [Units/volume] in Serum or Plasma
+2874-6,Gamma globulin [Mass/volume] in Serum or Plasma by Electrophoresis
+2324-2,Gamma glutamyl transferase [Enzymatic activity/volume] in Serum or Plasma
+2333-3,Gastrin [Mass/volume] in Serum or Plasma
+35668-3,Gentamicin [Mass/volume] in Serum or Plasma
+6412-1,Giardia lamblia Ag [Presence] in Stool by Immunoassay
+48643-1,Glomerular filtration rate/1.73 sq M predicted among blacks [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)
+48642-3,Glomerular filtration rate/1.73 sq M predicted among non-blacks [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)
+2339-0,Glucose [Mass/volume] in Blood
+2344-0,Glucose [Mass/volume] in Body fluid
+41653-7,Glucose [Mass/volume] in Capillary blood by Glucometer
+2342-4,Glucose [Mass/volume] in Cerebral spinal fluid
+2345-7,Glucose [Mass/volume] in Serum or Plasma
+2350-7,Glucose [Mass/volume] in Urine
+5792-7,Glucose [Mass/volume] in Urine by Test strip
+2349-9,Glucose [Presence] in Urine
+4542-7,Haptoglobin [Mass/volume] in Serum or Plasma
+4544-3,Hematocrit [Volume Fraction] of Blood by Automated count
+718-7,Hemoglobin [Mass/volume] in Blood
+5794-3,Hemoglobin [Presence] in Urine by Test strip
+4548-4,Hemoglobin A1c/Hemoglobin.total in Blood
+6864-3,Hemoglobin S [Presence] in Blood by Solubility test
+4625-0,Hemoglobin S/Hemoglobin.total in Blood
+13952-7,Hepatitis B virus core Ab [Presence] in Serum or Plasma by Immunoassay
+24113-3,Hepatitis B virus core IgM Ab [Presence] in Serum or Plasma by Immunoassay
+13953-5,Hepatitis B virus e Ab [Presence] in Serum or Plasma by Immunoassay
+13954-3,Hepatitis B virus e Ag [Presence] in Serum or Plasma by Immunoassay
+5196-1,Hepatitis B virus surface Ag [Presence] in Serum or Plasma by Immunoassay
+32286-7,Hepatitis C virus genotype [Identifier] in Serum or Plasma by Probe and target amplification method
+38180-6,Hepatitis C virus RNA [log units/volume] (viral load) in Serum or Plasma by Probe and target amplification method
+11259-9,Hepatitis C virus RNA [Presence] in Serum or Plasma by Probe and target amplification method
+11011-4,Hepatitis C virus RNA [Units/volume] (viral load) in Serum or Plasma by Probe and target amplification method
+7793-3,Howell-Jolly bodies [Presence] in Blood by Light microscopy
+5796-8,Hyaline casts [#/area] in Urine sediment by Microscopy low power field
+728-6,Hypochromia [Presence] in Blood by Light microscopy
+2458-8,IgA [Mass/volume] in Serum or Plasma
+19113-0,IgE [Units/volume] in Serum or Plasma
+2465-3,IgG [Mass/volume] in Serum or Plasma
+2472-9,IgM [Mass/volume] in Serum or Plasma
+25700-6,Immunofixation for Serum or Plasma
+6301-6,INR in Platelet poor plasma by Coagulation assay
+20448-7,Insulin [Units/volume] in Serum or Plasma
+2484-4,Insulin-like growth factor-I [Mass/volume] in Serum or Plasma
+76213-8,Invasive Diastolic blood pressure
+76215-3,Invasive Systolic blood pressure
+2500-7,Iron binding capacity [Mass/volume] in Serum or Plasma
+2502-3,Iron saturation [Mass Fraction] in Serum or Plasma
+2514-8,Ketones [Presence] in Urine by Test strip
+32693-4,Lactate [Moles/volume] in Blood
+2524-7,Lactate [Moles/volume] in Serum or Plasma
+593-4,Legionella sp identified in Unspecified specimen by Organism specific culture
+5799-2,Leukocyte esterase [Presence] in Urine by Test strip
+6690-2,Leukocytes [#/volume] in Blood by Automated count
+806-0,Leukocytes [#/volume] in Cerebral spinal fluid by Manual count
+15212-4,Lipase [Enzymatic activity/volume] in Body fluid
+3040-3,Lipase [Enzymatic activity/volume] in Serum or Plasma
+10501-5,Lutropin [Units/volume] in Serum or Plasma
+731-0,Lymphocytes [#/volume] in Blood by Automated count
+736-9,Lymphocytes/100 leukocytes in Blood by Automated count
+737-7,Lymphocytes/100 leukocytes in Blood by Manual count
+10328-3,Lymphocytes/100 leukocytes in Cerebral spinal fluid by Manual count
+738-5,Macrocytes [Presence] in Blood by Light microscopy
+24447-5,Magnesium [Mass/time] in 24 hour Urine
+19123-9,Magnesium [Mass/volume] in Serum or Plasma
+19124-7,Magnesium [Mass/volume] in Urine
+3773-9,Methadone [Presence] in Urine
+19550-3,Methadone [Presence] in Urine by Screen method
+14956-7,Microalbumin [Mass/time] in 24 hour Urine
+14957-5,Microalbumin [Mass/volume] in Urine
+14959-1,Microalbumin/Creatinine [Mass Ratio] in Urine
+741-9,Microcytes [Presence] in Blood by Light microscopy
+664-3,Microscopic observation [Identifier] in Unspecified specimen by Gram stain
+742-7,Monocytes [#/volume] in Blood by Automated count
+5905-5,Monocytes/100 leukocytes in Blood by Automated count
+25418-5,Mumps virus IgG Ab [Units/volume] in Serum by Immunoassay
+2639-3,Myoglobin [Mass/volume] in Serum or Plasma
+2641-9,Myoglobin [Mass/volume] in Urine
+30934-4,Natriuretic peptide B [Mass/volume] in Serum or Plasma
+24111-7,Neisseria gonorrhoeae DNA [Presence] in Unspecified specimen by Probe and target amplification method
+751-8,Neutrophils [#/volume] in Blood by Automated count
+753-4,Neutrophils [#/volume] in Blood by Manual count
+770-8,Neutrophils/100 leukocytes in Blood by Automated count
+5802-4,Nitrite [Presence] in Urine by Test strip
+8061-4,Nuclear Ab [Presence] in Serum
+58413-6,Nucleated erythrocytes/100 leukocytes [Ratio] in Blood by Automated count
+3879-4,Opiates [Presence] in Urine
+19295-5,Opiates [Presence] in Urine by Screen method
+8331-1,Oral temperature
+2692-2,Osmolality of Serum or Plasma
+2695-5,Osmolality of Urine
+10998-3,Oxycodone [Presence] in Urine
+2703-7,Oxygen [Partial pressure] in Arterial blood
+2705-2,Oxygen [Partial pressure] in Venous blood
+2708-6,Oxygen saturation in Arterial blood
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry
+20564-1,Oxygen saturation in Blood
+2709-4,Oxygen saturation in Capillary blood
+19224-5,Oxygen saturation in Mixed venous blood
+2711-0,Oxygen saturation in Venous blood
+7795-8,Pappenheimer bodies [Presence] in Blood by Light microscopy
+2731-8,Parathyrin.intact [Mass/volume] in Serum or Plasma
+2744-1,pH of Arterial blood
+11558-4,pH of Blood
+2748-2,pH of Body fluid
+2745-8,pH of Capillary blood
+2756-5,pH of Urine
+5803-2,pH of Urine by Test strip
+2746-6,pH of Venous blood
+3948-7,Phenobarbital [Mass/volume] in Serum or Plasma
+3968-5,Phenytoin [Mass/volume] in Serum or Plasma
+2779-7,Phosphate [Mass/time] in 24 hour Urine
+2777-1,Phosphate [Mass/volume] in Serum or Plasma
+2778-9,Phosphate [Mass/volume] in Urine
+777-3,Platelets [#/volume] in Blood by Automated count
+49497-1,Platelets [#/volume] in Blood by Estimate
+779-9,Poikilocytosis [Presence] in Blood by Light microscopy
+10378-8,Polychromasia [Presence] in Blood by Light microscopy
+2829-0,Potassium [Moles/time] in 24 hour Urine
+6298-4,Potassium [Moles/volume] in Blood
+2823-3,Potassium [Moles/volume] in Serum or Plasma
+2828-2,Potassium [Moles/volume] in Urine
+14338-8,Prealbumin [Mass/volume] in Serum or Plasma
+33959-8,Procalcitonin [Mass/volume] in Serum or Plasma
+2839-9,Progesterone [Mass/volume] in Serum or Plasma
+2842-3,Prolactin [Mass/volume] in Serum or Plasma
+2857-1,Prostate specific Ag [Mass/volume] in Serum or Plasma
+10886-0,Prostate Specific Ag Free [Mass/volume] in Serum or Plasma
+12841-3,Prostate Specific Ag Free/Prostate specific Ag.total in Serum or Plasma
+2889-4,Protein [Mass/time] in 24 hour Urine
+2881-1,Protein [Mass/volume] in Body fluid
+2880-3,Protein [Mass/volume] in Cerebral spinal fluid
+2885-2,Protein [Mass/volume] in Serum or Plasma
+2888-6,Protein [Mass/volume] in Urine
+5804-0,Protein [Mass/volume] in Urine by Test strip
+20454-5,Protein [Presence] in Urine by Test strip
+27822-6,Protein S actual/normal in Platelet poor plasma by Coagulation assay
+2890-2,Protein/Creatinine [Mass Ratio] in Urine
+5902-2,Prothrombin time (PT)
+5290-2,Reagin Ab [Presence] in Cerebral spinal fluid by VDRL
+20507-0,Reagin Ab [Presence] in Serum by RPR
+8332-9,Rectal temperature
+17849-1,Reticulocytes/100 erythrocytes in Blood by Automated count
+10331-7,Rh [Type] in Blood
+11572-5,Rheumatoid factor [Units/volume] in Serum or Plasma
+8014-3,Rubella virus IgG Ab [Units/volume] in Serum
+4024-6,Salicylates [Mass/volume] in Serum or Plasma
+29247-4,Sirolimus [Mass/volume] in Blood
+2956-1,Sodium [Moles/time] in 24 hour Urine
+2947-0,Sodium [Moles/volume] in Blood
+2951-2,Sodium [Moles/volume] in Serum or Plasma
+2955-3,Sodium [Moles/volume] in Urine
+5811-5,Specific gravity of Urine by Test strip
+31208-2,Specimen source [Identifier] of Unspecified specimen
+802-9,Spherocytes [Presence] in Blood by Light microscopy
+5370-2,Streptolysin O Ab [Units/volume] in Serum or Plasma
+76534-7,Systolic blood pressure by Noninvasive
+11253-2,Tacrolimus [Mass/volume] in Blood
+10381-2,Target cells [Presence] in Blood by Light microscopy
+2986-8,Testosterone [Mass/volume] in Serum or Plasma
+2991-8,Testosterone Free [Mass/volume] in Serum or Plasma
+2999-1,Thiamine [Mass/volume] in Serum or Plasma
+3243-3,Thrombin time
+3013-0,Thyroglobulin [Mass/volume] in Serum or Plasma
+8098-6,Thyroglobulin Ab [Units/volume] in Serum or Plasma
+3016-3,Thyrotropin [Units/volume] in Serum or Plasma
+11580-8,Thyrotropin [Units/volume] in Serum or Plasma by Detection limit <= 0.005 mIU/L
+3026-2,Thyroxine (T4) [Mass/volume] in Serum or Plasma
+3024-7,Thyroxine (T4) free [Mass/volume] in Serum or Plasma
+35670-9,Tobramycin [Mass/volume] in Serum or Plasma
+4057-6,Tobramycin [Mass/volume] in Serum or Plasma --peak
+17713-9,Topiramate [Mass/volume] in Serum or Plasma
+3034-6,Transferrin [Mass/volume] in Serum or Plasma
+2571-8,Triglyceride [Mass/volume] in Serum or Plasma
+3053-6,Triiodothyronine (T3) [Mass/volume] in Serum or Plasma
+3051-0,Triiodothyronine (T3) Free [Mass/volume] in Serum or Plasma
+42757-5,Troponin I.cardiac [Mass/volume] in Blood
+10839-9,Troponin I.cardiac [Mass/volume] in Serum or Plasma
+6598-7,Troponin T.cardiac [Mass/volume] in Serum or Plasma
+3087-4,Urate [Mass/time] in 24 hour Urine
+3084-1,Urate [Mass/volume] in Serum or Plasma
+3086-6,Urate [Mass/volume] in Urine
+3096-5,Urea nitrogen [Mass/time] in 24 hour Urine
+6299-2,Urea nitrogen [Mass/volume] in Blood
+3094-0,Urea nitrogen [Mass/volume] in Serum or Plasma
+3095-7,Urea nitrogen [Mass/volume] in Urine
+3097-3,Urea nitrogen/Creatinine [Mass Ratio] in Serum or Plasma
+20405-7,Urobilinogen [Mass/volume] in Urine by Test strip
+19161-9,Urobilinogen [Units/volume] in Urine by Test strip
+4086-5,Valproate [Mass/volume] in Serum or Plasma
+20578-1,Vancomycin [Mass/volume] in Serum or Plasma
+735-1,Variant lymphocytes/100 leukocytes in Blood by Manual count
+5403-1,Varicella zoster virus IgG Ab [Units/volume] in Serum by Immunoassay
+6584-7,Virus identified in Unspecified specimen by Culture
+19153-6,Volume in Urine collected for unspecified duration
+3167-4,Volume of 24 hour Urine
+1746-7,Albumin [Mass/volume] in Cerebral spinal fluid
+1765-7,Aldosterone [Mass/time] in 24 hour Urine
+702-1,Anisocytosis [Presence] in Blood by Light microscopy
+9335-1,Appearance of Body fluid
+10333-3,Appearance of Cerebral spinal fluid
+5769-5,Bacteria [#/area] in Urine sediment by Microscopy high power field
+19270-8,Barbiturates [Presence] in Urine by Screen method
+14316-4,Benzodiazepines [Presence] in Urine by Screen method
+890-4,Blood group antibody screen [Presence] in Serum or Plasma
+933-2,Blood product type
+8301-4,Body height Estimated
+1992-7,Calcitonin [Mass/volume] in Serum or Plasma
+20563-3,Carboxyhemoglobin/Hemoglobin.total in Blood
+8116-6,CD19 cells [#/volume] in Blood
+8117-4,CD19 cells/100 cells in Blood
+8122-4,CD3 cells [#/volume] in Blood
+8124-0,CD3 cells/100 cells in Blood
+24467-3,CD3+CD4+ (T4 helper) cells [#/volume] in Blood
+8123-2,CD3+CD4+ (T4 helper) cells/100 cells in Blood
+54218-3,CD3+CD4+ (T4 helper) cells/CD3+CD8+ (T8 suppressor cells) cells [# Ratio] in Blood
+14135-8,CD3+CD8+ (T8 suppressor cells) cells [#/volume] in Blood
+8101-8,CD3+CD8+ (T8 suppressor cells) cells/100 cells in Blood
+21613-5,Chlamydia trachomatis DNA [Presence] in Unspecified specimen by Probe and target amplification method
+9830-1,Cholesterol.total/Cholesterol in HDL [Mass Ratio] in Serum or Plasma
+54067-4,Clostridium difficile toxin genes [Presence] in Stool by Probe and target amplification method
+6824-7,Color of Body fluid
+12190-5,Creatinine [Mass/volume] in Body fluid
+47528-5,Cytology report of Cervical or vaginal smear or scraping Cyto stain
+7791-7,Dacrocytes [Presence] in Blood by Light microscopy
+12286-1,Drugs identified in Urine by Screen method
+714-6,Eosinophils/100 leukocytes in Blood by Manual count
+1558-6,Fasting glucose [Mass/volume] in Serum or Plasma
+3255-7,Fibrinogen [Mass/volume] in Platelet poor plasma by Coagulation assay
+33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)
+40442-6,Heart rate --post exercise
+40443-4,Heart rate --resting
+29891-9,Helicobacter pylori [Presence] in Stomach by urea breath test
+17780-8,Helicobacter pylori Ag [Presence] in Stool by Immunoassay
+5177-1,Helicobacter pylori IgM Ab [Units/volume] in Serum by Immunoassay
+20570-8,Hematocrit [Volume Fraction] of Blood
+2334-1,Hemoglobin.gastrointestinal [Presence] in Gastric fluid
+2335-8,Hemoglobin.gastrointestinal [Presence] in Stool
+22314-9,Hepatitis A virus IgM Ab [Presence] in Serum
+22322-2,Hepatitis B virus surface Ab [Presence] in Serum
+5195-3,Hepatitis B virus surface Ag [Presence] in Serum
+50064-5,Ideal body weight
+2464-6,IgG [Mass/volume] in Cerebral spinal fluid
+2466-1,IgG subclass 1 [Mass/volume] in Serum
+2467-9,IgG subclass 2 [Mass/volume] in Serum
+2468-7,IgG subclass 3 [Mass/volume] in Serum
+2469-5,IgG subclass 4 [Mass/volume] in Serum
+5862-8,Influenza virus A Ag [Presence] in Unspecified specimen by Immunoassay
+5866-9,Influenza virus B Ag [Presence] in Unspecified specimen by Immunoassay
+3150-0,Inhaled oxygen concentration
+34714-6,INR in Blood by Coagulation assay
+2498-4,Iron [Mass/volume] in Serum or Plasma
+5821-4,Leukocytes [#/area] in Urine sediment by Microscopy high power field
+10835-7,Lipoprotein a [Mass/volume] in Serum or Plasma
+5244-9,Measles virus IgG Ab [Units/volume] in Serum by Immunoassay
+740-1,Metamyelocytes/100 leukocytes in Blood by Manual count
+2609-6,Metanephrines [Mass/time] in 24 hour Urine
+744-3,Monocytes/100 leukocytes in Blood by Manual count
+749-2,Myelocytes/100 leukocytes in Blood by Manual count
+2671-6,Normetanephrine [Mass/time] in 24 hour Urine
+11556-8,Oxygen [Partial pressure] in Blood
+2704-5,Oxygen [Partial pressure] in Capillary blood
+2749-0,pH of Gastric fluid
+2755-7,pH of Stool
+3969-3,Phenytoin Free [Mass/volume] in Serum or Plasma
+32623-1,Platelet mean volume [Entitic volume] in Blood by Automated count
+783-1,Promyelocytes/100 leukocytes in Blood by Manual count
+27819-2,Protein C actual/normal in Platelet poor plasma by Coagulation assay
+27821-8,Protein S Free Ag actual/normal in Platelet poor plasma by Immunologic method
+11060-1,Reducing substances [Presence] in Stool
+2915-7,Renin [Enzymatic activity/volume] in Plasma
+5334-8,Rubella virus IgG Ab [Units/volume] in Serum or Plasma by Immunoassay
+769-0,Segmented neutrophils/100 leukocytes in Blood by Manual count
+13967-5,Sex hormone binding globulin [Moles/volume] in Serum or Plasma
+2963-7,Somatotropin [Mass/volume] in Serum or Plasma
+2964-5,Specific gravity of Body fluid
+47938-6,Specimen source [Identifier] of Body fluid
+66746-9,Specimen type
+11579-0,Thyrotropin [Units/volume] in Serum or Plasma by Detection limit <= 0.05 mIU/L
+14924-5,Transfusion reaction [Interpretation] in Plasma or RBC Narrative
+3052-8,Triiodothyronine (T3).reverse [Mass/volume] in Serum or Plasma
+3050-2,Triiodothyronine resin uptake (T3RU) in Serum or Plasma
+19157-7,Tube number of Cerebral spinal fluid
+3122-9,Vanillylmandelate [Mass/time] in 24 hour Urine

@@ -1,0 +1,60 @@
+{
+  "name": "datamart",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build-standard": "vue-cli-service build",
+    "build": "vue-cli-service build --target lib --name datamart_vue",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "animate.css": "^3.7.2",
+    "animejs": "^3.2.0",
+    "axios": "^0.19.2",
+    "core-js": "^3.4.4",
+    "immutable": "^4.0.0-rc.12",
+    "jquery": "^3.5.1",
+    "jquery-ui": "^1.12.1",
+    "lodash": "^4.17.19",
+    "moment": "^2.24.0",
+    "qs": "^6.9.1",
+    "swal-vue": "https://github.com/bi0nd0/swal-vue/#1.1.0",
+    "vue": "^2.6.10",
+    "vue-router": "^3.1.5",
+    "vuex": "^3.1.2",
+    "websocket-extensions": "^0.1.4"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.1.0",
+    "@vue/cli-plugin-eslint": "^4.1.0",
+    "@vue/cli-service": "^4.1.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "rules": {
+      "no-console": "off",
+      "no-debugger": "off",
+      "no-unused-vars": "off",
+      "no-case-declarations": "off"
+    },
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}

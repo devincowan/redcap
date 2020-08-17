@@ -1,0 +1,55 @@
+# PHP CircleCI 2.0 configuration file
+#
+# Check https://circleci.com/docs/2.0/language-php/ for more details
+#
+version: 2
+jobs:
+  build:
+    working_directory: ~/redcap/redcap_v9.0.0
+    docker:
+      - image: circleci/php:7.2-apache
+        environment:
+          MYSQL_REDCAP_CI_HOSTNAME: 127.0.0.1
+          MYSQL_REDCAP_CI_DB: redcap
+          MYSQL_REDCAP_CI_USERNAME: redcap_user
+          MYSQL_REDCAP_CI_PASSWORD: password
+    steps:
+      - checkout
+      - run:
+          name: Install MySQL
+          command: |
+            sudo apt-get update
+            sudo docker-php-ext-install mysqli
+            sudo apt install -y default-mysql-client
+            sudo apt-get -y install default-mysql-server
+            sudo service mysql start
+            sleep 2
+            ps aux | grep mysql
+      - run:
+          name: Install REDCap
+          command: |
+            sudo mkdir ~/redcap/api
+            sudo mkdir ~/redcap/temp
+            sudo mkdir ~/redcap/edocs
+            sudo mkdir ~/redcap/modules
+            sudo chmod -R 777 ~/redcap
+            sudo mysql -u root -e "CREATE database $MYSQL_REDCAP_CI_DB;"
+            sudo mysql -u root -e "CREATE USER '$MYSQL_REDCAP_CI_USERNAME'@'$MYSQL_REDCAP_CI_HOSTNAME' IDENTIFIED BY '$MYSQL_REDCAP_CI_PASSWORD';"
+            sudo mysql -u root -e "GRANT SELECT, INSERT, UPDATE, DELETE, CREATE, DROP, INDEX, ALTER ON $MYSQL_REDCAP_CI_DB.* TO '$MYSQL_REDCAP_CI_USERNAME'@'$MYSQL_REDCAP_CI_HOSTNAME';"
+            php install.php
+      - run:
+          name: TEST 1 - REDCap database integrity check
+          command: |
+            php Tests/circleci-test1.php
+      - run:
+          name: TEST 2 - Save data to REDCap project and verify
+          command: |
+            php Tests/circleci-test2.php
+      - run:
+          name: TEST 3 - Verify that REDCap API is functioning
+          command: |
+            php Tests/circleci-test3.php
+      - run:
+          name: TEST 4 - Verify that REDCap survey pages load correctly
+          command: |
+            php Tests/circleci-test4.php

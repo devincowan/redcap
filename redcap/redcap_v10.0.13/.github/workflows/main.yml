@@ -1,0 +1,50 @@
+name: GitHub CI
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    name: REDCap (PHP ${{ matrix.php-versions }})
+    runs-on: ubuntu-latest
+    env:
+      MYSQL_REDCAP_CI_HOSTNAME: 127.0.0.1:8888
+      MYSQL_REDCAP_CI_DB: redcap
+      MYSQL_REDCAP_CI_USERNAME: root
+      MYSQL_REDCAP_CI_PASSWORD: password
+    services:
+      mysql:
+        image: mysql:5.7
+        env:
+          MYSQL_ALLOW_EMPTY_PASSWORD: false
+          MYSQL_ROOT_PASSWORD: password
+          MYSQL_DATABASE: redcap
+        ports:
+          - '8888:3306'
+        options: --health-cmd="mysqladmin ping" --health-interval=10s --health-timeout=5s --health-retries=3
+    strategy:
+      fail-fast: false
+      max-parallel: 3
+      matrix:
+        php-versions: ['5.5', '7.3', '7.4']
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v1
+      - name: Create REDCap version folder
+        run: |
+          mkdir ../redcap_v9.0.0
+          cp -r * ../redcap_v9.0.0/
+      - name: Install REDCap
+        run: |
+          php ../redcap_v9.0.0/install.php
+      - name: TEST 1 - REDCap database integrity check
+        run: |
+          php ../redcap_v9.0.0/Tests/circleci-test1.php
+      - name: TEST 2 - Save data to REDCap project and verify
+        run: |
+          php ../redcap_v9.0.0/Tests/circleci-test2.php
+      - name: TEST 3 - Verify that REDCap API is functioning
+        run: |
+          php ../redcap_v9.0.0/Tests/circleci-test3.php
+      - name: TEST 4 - Verify that REDCap survey pages load correctly
+        run: |
+          php ../redcap_v9.0.0/Tests/circleci-test4.php
